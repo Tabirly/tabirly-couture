@@ -1,0 +1,61 @@
+[
+  {
+    "id": "item-001",
+    "title": "The High Priestess Pelerini",
+    "category": "Tarot Arketipleri",
+    "occasion": "Astral Seyahat, İçe Dönüş Ritüelleri",
+    "slogan": "Sezginin saf ipeğe dönüşmüş hali.",
+    "description": "Ametist kristalleri ve ay taşı tozlarından elde edilen dijital ipliklerle dokundu. Saf sezgi frekansı barındırır. Hiper-realistik, ağırlıksız ipek form. Gerçek bir fiziksel ağırlığı yoktur, sadece ruhani alanınızı korur.",
+    "bodyType": "Su Elementi Baskın Auralar",
+    "pairsWith": [
+      "Akrep'in Gölge Zırhı",
+      "Kuvars Taçı"
+    ],
+    "media": {
+      "images": [
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1550537687-c91072c4792d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1520699697851-3dc68aa3a474?q=80&w=800&auto=format&fit=crop"
+      ],
+      "hasVideo": false
+    }
+  },
+  {
+    "id": "item-002",
+    "title": "Güneş Çakrası Zırhı",
+    "category": "Kozmik Enerji",
+    "occasion": "Yaratım Süreçleri, Liderlik Toplantıları",
+    "slogan": "Ateşin sıvı halini giyin.",
+    "description": "Özgüven ve yaratım ateşinin sıvı altın frekansında kodlandığı avangart dijital silüet. Tamamen fütüristik editorial konsept. Solar Plexus çakrasındaki tıkanıklıkları dijital sanat yoluyla açmayı hedefler.",
+    "bodyType": "Ateş Elementi, Alfa Enerjiler",
+    "pairsWith": [
+      "Kader Çarkı Asası"
+    ],
+    "media": {
+      "images": [
+        "https://images.unsplash.com/photo-1633510884639-509ee8867a6d?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=800&auto=format&fit=crop"
+      ],
+      "hasVideo": true
+    }
+  },
+  {
+    "id": "item-003",
+    "title": "Eterik Düşüş Elbisesi",
+    "category": "Rüya Kumaşları",
+    "occasion": "Derin Uyku, Lucid Rüya Deneyimleri",
+    "slogan": "Yerçekimi zihnin bir illüzyonudur.",
+    "description": "Astral seyahat sırasında zihnin yarattığı steril beyaz alanlardan ilham alındı. Yerçekimsiz ortamda süzülen, sinematik form.",
+    "bodyType": "Tüm Eterik Bedenler",
+    "pairsWith": [
+      "The High Priestess Pelerini"
+    ],
+    "media": {
+      "images": [
+        "https://images.unsplash.com/photo-1534080516629-9ee42b36a16f?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1520699697851-3dc68aa3a474?q=80&w=800&auto=format&fit=crop"
+      ],
+      "hasVideo": false
+    }
+  }
+]
