@@ -6,7 +6,7 @@
     "occasion": "Günlük önemli aktiviteler",
     "slogan": "Şefkat, Bereket ve Korunma",
     "description": "Anadolu ve Ortadoğu'nun en kadim sembollerinden Fatma Ana'nın Eli'nin şefkatli ve sarsılmaz koruyucu gücünü fiziksel bir boyuta taşıyan elbise, nazarı sertçe geri yansıtmaktan ziyade bedeni saran ve içsel gücü mühürleyen sessiz bir frekans alanı olarak tasarlandı. Bu yüksek bilinci ve arınmayı temsil etmesi adına tasarımda, doğada kendi formunu koruyan, nefes alan, mat ve tamamen sunilikten uzak parşömen ve bulut tonlarında tok bir keten-ipek karışımı tercih edildi. Düz kesim, ince askılı ve yırtmaçsız olarak heykelsi bir netlikle bedeni kavrayan bu kalıbın üzerinde Hamsa motifi, kumaşa basılmış bir desen olarak değil; bizzat dikiş mühendisliğiyle hayat buluyor. Gövdenin mutlak merkezinden başlayarak yakaya ve kalçalara doğru yelpaze gibi açılan beş adet belirgin yapısal nervür dikiş, koruyucu elin beş parmağını soyutlarken; bu mimari hatların kesiştiği noktaya yerleştirilen ton-sür-ton mat ham inci detayı, sembolik avuç içinin enerji odağını oluşturuyor. Işığı parlatmak yerine yumuşatarak emen ve sadece kumaş üzerindeki minimalist gölgelerin konuşmasına izin veren bu eser, dış dünyanın kaotik enerjilerinden sıyrılıp kendi merkezinde, tamamen cool ve sofistike bir ihtişamla dik durmak isteyenler için modern bir zırh niteliği taşıyor.",
-    "bodyType": "Su Elementi Baskın Auralar",
+    "bodyType": "Her beden için ideal",
     "pairsWith": [
       "",
       ""
@@ -25,5 +25,30 @@
       ],
       "hasVideo": false
     }
-  }
+  },
+   {
+    "id": "item-002",
+    "title": "Mühr-ü Süleyman",
+    "category": "Elbise",
+    "occasion": "Günlük önemli aktiviteler",
+    "slogan": "Denge ve Korunma",
+    "description": "Osmanlı padişahlarının tılsımlı gömleklerinde taşıdığı en güçlü kalkan olan Süleyman Mührü'nün gök ile yeri, eril ile dişil enerjiyi dengeleyen o kadim matematiği elbisede modern ve feminen bir haute couture eserine dönüşüyor. Yüksek frekanslı ve organik bir koruma alanı yaratmak amacıyla, tasarımda tamamen saf parşömen ve bulut tonlarında, nefes alan, tok bir keten-ipek karışımı kullanıldı. Düz kesim, ince askılı ve yırtmaçsız olarak heykelsi bir netlikle bedeni kavrayan bu minimalist kalıp, mühür motifini bir nakış veya renkli bir baskı olarak değil; doğrudan gövdeyi saran bir dikiş mimarisi olarak taşıyor. Elbisenin göğüs ve bel kısmına yayılan, kumaşla ton-sür-ton uyumundaki yapısal kapitone (structural quilting) tekniği ve heykelsi kalın nervür dikişler, altı köşeli yıldızın iç içe geçmiş üçgenlerini sessiz bir kalkan gibi inşa ediyor. Başka hiçbir renge veya eklentiye ihtiyaç duymayan, sadece kumaşın kendi üzerindeki kusursuz dikiş kabartmalarının yarattığı sinematik gölge oyunlarıyla var olan bu tasarım; salt fiziksel bir şıklık sunmanın ötesinde, dış etkenlere kapalı, kendi merkezinde sonsuz bir denge ve aşırı sofistike bir koruma alanı arayanlar için görünmez bir zırh görevi görüyor.",
+    "bodyType": "Her beden için ideal",
+    "pairsWith": [
+      "",
+      ""
+    ],
+    "media": {
+      "images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8UzVLCPwEDTJQhmxZfXhqOh-nQfk4NHVtobNjLDt6t4WJBtt5di3ADyaJcLW_5QSL6gp7vUlngjfbnFIPNZyHsiwkSckdTocFj_reObTE-Hz6BR76Ix_oVlMRf1Us_ZlI8Ns9CzTwg7090mYx4ZRAf0B-zibp7HPkgF4FJqR_mOyeOslnvDTLiNWkuho/s1200/tabirly-s%C3%BCleyman-main.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOlwDsoXu8EENMGFDiQBfhNmw9TAfpzlF9vHQoglhtRrkKmZcSMbFIFDP3CPbypqO3nig_FGv_74PpcZXp-awC57J58bvEEhSyfD9HEpf4IRRSfM54wO-PYaphLXyIDHbRmf54N9MJcj7eBFXxLsr64xnr-e_3xYXWvXz5bgDwTlGE3lnltBkCAFlmlA/s1200/tabirly-s%C3%BCleyman-yak%C4%B1n.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Vr4vmcJP_fQ7QTE2pIxYUJ4RTei34b9qznNz0FgqDszHYL3qGr0w43T1VoIT9i9QTHap6YKMDUTNk2PDLgD6zJFqddy1co7AQtKtlJuO32hNN3AmX9THYU9ojSG4KBUEmoNrJfcFH3RfmuTu5xMTRfUAmby5fx6Yk8tb_a2pZR_TEhqXnrQn8FAlBA4/s1200/tabirly-s%C3%BCleyman-arka.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmI02PL6GbNkFWFFZTAGDmGMlMX9SaRRfHyugNIL4YsuElHI8z0l1rZWqGPzvMxC7yLHMmmkvNg1NvC8ovpIgBmM3liS3Nz1qjbG04eJATHo0IR0GIaboFzBCa8Lsk2KnAyOUd-HCvj4u8cW48Lj5nn6Du7YM7CeLLbGGfUL5TpvaPz9skx5aRocNBOQQ/s1200/tabirly-s%C3%BCleyman-yan.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivZsk-ObmsXyjPV6Sgu-oaHcnjkl-ZAs_Teb4qBFLReHlH77omOW0GKMFBn0J238SnA83aceUboruKmDOl46f7-r1V0zohM4GMcOfJ1vG5SRmLn5azq-0PBVgHwnUehLmy1aTWR3F4BpHvzMU1nKlDVJeHR-rKLxNTIqi-cA4eRY-QanQupeeuxA9pt50/s1200/tabirly-s%C3%BCleyman-1.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtDg6MCVDcm7PbI5-4CMSanWNVTDWsvwNq25AnIzocu-CsLLbH8Iyg2yZbhTwm1BVgUEUWl7fGnjd9Yc2C3RoXLlGEGw4rGK8gjdjZcYVvRImCuboh9bfK78cHmjxdb0wf698hDJCq9GOeiYE0Nep1efj7ilE-prA0DZHeSBEAxoOzjU_L96aHr60Nxl0/s1200/tabirly-s%C3%BCleyman-2.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUpfH4KoRpBpmXlJOUKzDy6O0DpxV7OEWrDNihwWmJpQDfIcGB0q7ufAoL0_OkH0ZVYoR5VcjbSVd-QgKOoYNLEI6MhIuZ174gaYXj90ZDpEmPIs_e0a7rjKxJqqxGeRL55tsEMeKdL1KCAy5b0-_EVsZ7X3m9ZHMQYhowTN3jACUcDY269TT05f-BmmA/s1200/tabirly-s%C3%BCleyman-3.jpeg"
+      ],
+      "hasVideo": false
+    }
+  } 
 ]
