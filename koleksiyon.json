@@ -345,5 +345,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-whimsigoth-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "dandy-alien-hand-syndrome",
+        "publishDate": "2026-06-15",
+        "gender": "Unisex",
+        "category": "Bluzlar ve Şık Üstler",
+        "title": "Yabancılaşan El: Dandy İkilik",
+        "slogan": "Kusursuz terziliğin, nörolojik bir başkaldırıyla asimetrik savaşı.",
+        "description": "Klasik 'Dandy' stilinin o jilet gibi ve disiplinli terziliğini alıp, 'Sol Elin Yabancılaşması' (Alien Hand Syndrome) sendromuyla birleştiren androjin ve beyin yakan bir haute couture tasarımı. Yüksek profilli fuarlar (Trade Show) ve kongreler için tasarlanan bu parçada, bedenin bir yarısı kusursuz, çizgili (pinstripe) bir Dandy ceket formunda disiplini sağlarken; diğer yarısı tamamen kontrolden çıkmış, boyundan bağlamalı (halter yaka) asimetrik ve vahşi kumaş dökümlerine dönüşüyor. Disiplinli koldaki otoriter lüks kol saati ve kontrolden çıkmış yabancı koldaki isyankar ağır zincir bileklik, tek bir bedene hapsolmuş iki zıt zihnin olağanüstü çatışmasını gözler önüne seriyor.",
+        "occasion": "Fuar & Kongre (Trade Show) / Üst Düzey Lansmanlar",
+        "bodyType": "Androjin & Otoriter Aura",
+        "pairsWith": [
+            "Otoriter Kol Saati",
+            "Ağır Zincir Bileklik",
+            "Dar Kesim Çizgili Pantolon"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dandy-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dandy-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dandy-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dandy-close.jpeg"
+            ]
+        }
     }
 ]
