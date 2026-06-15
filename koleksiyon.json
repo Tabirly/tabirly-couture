@@ -245,5 +245,30 @@
             ]
         },
         "gender": "Kadın"
+    },
+    {
+        "id": "multiverse-glitch-cyberpunk-trench",
+        "publishDate": "2026-06-15",
+        "gender": "Erkek",
+        "category": "Dış Giyim",
+        "title": "Çoklu Evren Arızası: Siberpunk Trençkot",
+        "slogan": "Kuantum karmaşasının kumaşa dokunmuş holografik hali.",
+        "description": "Retro-fütüristik bir siberpunk estetiğine sahip bu çok katmanlı tasarım, özel bir metaverse buluşması için yaratıldı. İridesan ve yağlı gibi parlayan fütüristik bir materyalden tasarlanan asimetrik, yüksek yakalı trençkot; dar fitilli bir kazağın üzerine inşa ediliyor. Kumaşın içine dokunmuş gibi duran ve boyutlar arası titreşiyormuş hissi veren holografik arıza (glitch) desenleri, metalik tokalar, neon dikişli düşük ağlı kargo pantolon ve mat siyah zırh kaplamalı platform siber savaş botlarıyla birleşiyor. Holografik vizör ve metalik eldiven detaylarıyla tamamlanan, fütüristik ama fazlasıyla keskin bir lüks anlayışı.",
+        "occasion": "Özel Metaverse Buluşmaları / Konsept Partiler",
+        "bodyType": "Keskin & Fütüristik Aura",
+        "pairsWith": [
+            "Holografik Siberpunk Vizör",
+            "Metalik Parmaksız Zırh Eldiven",
+            "Platform Siber Savaş Botları"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cyberpunk-erkek-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cyberpunk-erkek-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cyberpunk-erkek-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cyberpunk-erkek-close.jpeg"
+            ]
+        }
     }
 ]
