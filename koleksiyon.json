@@ -24,7 +24,8 @@
                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-bYNBxTV133nXHiZ_YtQzmzM7OlSG5Zxz0b1AS-Kgs5VCeeqiOuRHotL0uTYcEmDixqxvLNia3ORAhiLd8UhhfIwW91syBtEq-Hg4R2foYwLBegTNYh9czdtNL3bd5zLRI5TDgFYzj6uRwnJworTNjswrGxuF2SNS02Z27VKr_nXlyWr7Ma5QTcvOURo/s1200/tabirly-fatma-ananin-eli-mor.jpeg"
             ],
             "hasVideo": false
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "item-002",
@@ -49,7 +50,8 @@
                 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUpfH4KoRpBpmXlJOUKzDy6O0DpxV7OEWrDNihwWmJpQDfIcGB0q7ufAoL0_OkH0ZVYoR5VcjbSVd-QgKOoYNLEI6MhIuZ174gaYXj90ZDpEmPIs_e0a7rjKxJqqxGeRL55tsEMeKdL1KCAy5b0-_EVsZ7X3m9ZHMQYhowTN3jACUcDY269TT05f-BmmA/s1200/tabirly-s%C3%BCleyman-3.jpeg"
             ],
             "hasVideo": false
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "item-003",
@@ -71,7 +73,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_left_profile.png"
             ],
             "hasVideo": false
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "item-004",
@@ -94,7 +97,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_right.png"
             ],
             "hasVideo": false
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "item-005",
@@ -117,7 +121,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mcbling_occult_right.png"
             ],
             "hasVideo": false
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "item-006",
@@ -139,7 +144,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/ulzzang_maternity_right.png"
             ],
             "hasVideo": false
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "item-007",
@@ -162,7 +168,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/piri_reis_boots_right.png"
             ],
             "hasVideo": false
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "eshay-dyson-festival",
@@ -186,7 +193,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-eshay-back.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-eshay-close-shot.jpeg"
             ]
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "ivy-league-terracotta-jumpsuit",
@@ -210,7 +218,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-back.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-close-shot.jpeg"
             ]
-        }
+        },
+        "gender": "Kadın"
     },
     {
         "id": "deep-sea-bioluminescence-lodge",
@@ -234,6 +243,7 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deep-sea-back.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deep-sea-close.jpeg"
             ]
-        }
+        },
+        "gender": "Kadın"
     }
 ]
