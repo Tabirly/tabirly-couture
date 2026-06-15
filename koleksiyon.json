@@ -270,5 +270,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cyberpunk-erkek-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "cult-party-kei-gnostic-dualism",
+        "publishDate": "2026-06-15",
+        "gender": "Kadın",
+        "category": "Streetwear / Avant-Garde",
+        "title": "Gnostik İkilik: Işık ve Karanlığın Flörtü",
+        "slogan": "Eterik bir masumiyetin, karanlık evrensel sırlar ve rüzgarla dansı.",
+        "description": "Japon sokak modasının nostaljik ve ürkütücü-sevimli (creepy-cute) ruhunu taşıyan Cult Party Kei estetiği, bu tasarımda 'Gnostik İkilik' (Işık ve Karanlık kozmolojisi) felsefesiyle çarpışıyor. Rüzgarlı geçiş mevsimleri için özel olarak kurgulanan tasarımın üst kısmında, rüzgarda vahşice uçuşan eski moda dantel ve şifondan oluşan katmanlı şeffaf bir 'crop tee' bulunuyor; bu parça ruhsal aydınlanmayı ve saflığı temsil ediyor. Alt kısımda ise yüksek bel, dramatik İspanyol paça pantolon yer alıyor. Pantolonun kumaşı net bir ikilik sergiliyor; bir yarısı eterik ve parlak, diğer yarısı ise yoğun ve abisal bir karanlıkta. Ağır kadife ve metalden oluşan okült choker (tasma) kolye, bu iki zıt evreni boyun kısmında birbirine bağlayan mühürleyici bir kilit görevi görüyor.",
+        "occasion": "Geçiş Mevsimleri / Rüzgarlı Havalar",
+        "bodyType": "Kontrast & Dramatik Aura",
+        "pairsWith": [
+            "Okült Kadife Choker",
+            "Platform Deri Botlar",
+            "Vintage Gümüş Yüzükler"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cult-party-kei-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cult-party-kei-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cult-party-kei-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cult-party-kei-close.jpeg"
+            ]
+        }
     }
 ]
