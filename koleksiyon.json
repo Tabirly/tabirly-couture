@@ -420,5 +420,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-surreal-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "minimalist-corporate-piri-reis",
+        "publishDate": "2026-06-15",
+        "gender": "Kadın",
+        "category": "Gömlekler / Üst Giyim",
+        "title": "Kurumsal Gizem: Piri Reis'in Silüeti",
+        "slogan": "Disiplinli bir iş görüşmesinin, kadim haritalarla yeniden tanımlanması.",
+        "description": "Sıradan bir İş Görüşmesi ciddiyetini, fütüristik ve entelektüel bir Kurumsal Avangart estetiğe dönüştüren eşsiz bir tasarım. Minimalist kesimlerin hakim olduğu kombinde, bembeyaz, jilet gibi bir Hakim Yaka gömleğin kumaşına, Piri Reis haritalarının esrarengiz topografik çizgileri çok hafif kabartmalar halinde işlenmiş. Gömlek, yere kadar uzanan otoriter bir Maxi Etek ve nostaljik makara topuklu ayakkabılarla tamamlanıyor. Sıkıca toplanmış saçları tutan geometrik toka, eldeki minimalist lüks evrak çantası ve parlayan tektaş yüzük gücü simgelerken; en vurucu detay gözlerde yatıyor: Göz temasının zorunlu olduğu bir mülakatta, modelin bakışlarını gizleyen fütüristik jaluzi gözlükler (Shutter Shades), kurumsal kuralları kışkırtıcı bir şekilde yıkıyor.",
+        "occasion": "İş Görüşmesi / Kurumsal Toplantılar",
+        "bodyType": "Minimalist & Entelektüel Aura",
+        "pairsWith": [
+            "Jaluzi Gözlük (Shutter Shades)",
+            "Lüks Evrak Çantası",
+            "Geometrik Saç Tokası"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-minimalist-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-minimalist-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-minimalist-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-minimalist-close.jpeg"
+            ]
+        }
     }
 ]
