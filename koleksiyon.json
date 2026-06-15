@@ -395,5 +395,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-sophisticated-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "surreal-heatwave-purity",
+        "publishDate": "2026-06-15",
+        "gender": "Kadın",
+        "category": "Kolsuz ve Askılı Üstler",
+        "title": "Sürrealist Isı Dalgası: Eriyen Masumiyet",
+        "slogan": "Eriyen masumiyetin, kışkırtıcı yüksek sokak modasıyla rüya gibi buluşması.",
+        "description": "Aşırı Sıcak (Heatwave) konsepti altında 'Masumiyet ve Saflık' temasını son derece sürrealist bir dille ele alan bu avangart tasarım, rüya ile gerçeğin sınırlarını bulanıklaştırıyor. Modelin üzerindeki bembeyaz, ıslak görünümlü (wet-look) spagetti askılı transparan büstiyer, sanki sıcaktan buharlaşıyormuş gibi bir illüzyon yaratıyor. Alt kısımdaki aşırı kısa beyaz şort (booty shorts) ve bilekli devasa spor ayakkabılar (high-top sneakers) sokak stiline iddialı bir selam çakarken, kollarda yer çekimine meydan okuyarak süzülen likit cam (liquid-glass) kol bantları tasarımı bambaşka bir boyuta taşıyor. Omuzdan sarkan ikonik lüks baget çanta ise, Dali'nin meşhur tablolarını andırırcasına sıcaktan erimiş ve formunu kaybetmiş heykelsi bir duruş sergiliyor.",
+        "occasion": "Açık Hava Festivalleri / Gündüz Partileri (Heatwave)",
+        "bodyType": "Sürrealist & Çarpıcı Aura",
+        "pairsWith": [
+            "Likit Cam Kol Bantları",
+            "Eriyen Lüks Baget Çanta",
+            "Bilekli Dev Sneaker"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-surreal-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-surreal-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-surreal-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-surreal-close.jpeg"
+            ]
+        }
     }
 ]
