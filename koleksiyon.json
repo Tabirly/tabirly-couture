@@ -370,5 +370,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dandy-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "sophisticated-nazca-dog-walking",
+        "publishDate": "2026-06-15",
+        "gender": "Kadın",
+        "category": "Dış Giyim / Avant-Garde",
+        "title": "Nazca Yürüyüşü: Sofistike İroni",
+        "slogan": "Kraliyet zarafetinin, sabah yürüyüşündeki avangart tezahürü.",
+        "description": "Sıradan bir sabah yürüyüşü rutini, bu avangart tasarımda Sofistike bir yüksek moda olayına dönüşüyor. İlhamını Peru çöllerindeki devasa Nazca Çizgilerinden alan tasarım, ağır bir yün Pelerin Kaban üzerine işlenmiş minimalist geometrik çizgilerle dikkat çekiyor. Pelerinin altından süzülen zarif Çay Boyu etek, 1950lerin lüks silüetlerini anımsatırken; burnu açık topuklu ayakkabılar ve lüks bir beyzbol şapkası, bu ciddiyeti ironik bir sokak stiliyle kırıyor. Modelin elindeki kadraj dışına uzanan metalik köpek tasması, bu yalnız, gösterişli ve kışkırtıcı sabah yürüyüşü konseptini mühürlüyor.",
+        "occasion": "Sabah Yürüyüşü / Gündelik Şıklık",
+        "bodyType": "Sofistike & İronik Aura",
+        "pairsWith": [
+            "Lüks Beyzbol Şapkası",
+            "Burnu Açık Topuklular",
+            "Metalik Köpek Tasması"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-sophisticated-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-sophisticated-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-sophisticated-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-sophisticated-close.jpeg"
+            ]
+        }
     }
 ]
