@@ -1,33 +1,32 @@
 import json
+import os
 
-file_path = r'C:\Users\User\Documents\GitHub\tabirly-couture\koleksiyon.json'
-
-with open(file_path, 'r', encoding='utf-8') as f:
+with open("koleksiyon.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 new_item = {
-    "id": "item-003",
-    "title": "Kayıp Atlantis",
+    "id": "item-004",
+    "title": "Parizyen Nostalji",
     "category": "Elbise",
-    "occasion": "Özel Davetler / Mezuniyet",
-    "slogan": "Derinliklerin Antik Gizemi",
-    "description": "Mermaidcore estetiği ile antik arkeolojik uygarlıkların kayıp gizemlerini harmanlayan bu tasarım, unutulmuş bir Atlantis tapınağından gün yüzüne çıkmış gibi hissettiriyor. Üst parça, su altı florasının nazik hareketlerini taklit eden dalgalı yarasa kollu, yarı saydam ve yanardöner akuamarin şifon bluzdan oluşurken; fosilleşmiş nautilus kabuklarını andıran yapılandırılmış geometrik bir korse ile desteklenmektedir. Alt parça, deniz dalgalarının köpüklerini ve antik mercan dokularını barındıran sıvı görünümlü gümüş ve deniz mavisi ipekten asimetrik pilili bir etektir. Bu ihtişamlı görünüm, antik bir motif taşıyan oksitlenmiş bronz mühür yüzük, kırık deniz camlarını andıran eklem yüzükleri ve köprücük kemiklerinden süzülen balık ağı formundaki zarif metalik vücut zinciriyle tamamlanmaktadır. Kusursuz ve tekil bir ihtişam arayanlar için.",
+    "slogan": "Geçmişin serin rüzgarlarına ipek bir dokunuş.",
+    "description": "Nostaljik ve romantik bir hava taşıyan, Fransız şıklığından (French Girl Chic) ilham alan vintage esintili anvelop elbise tasarımı. Tozlu gül kurusu rengindeki hafif ipek şifon kumaşı, rüzgarlı geçiş mevsimlerinde rüzgarla dans edecek şekilde özel olarak uyarlandı. 35mm sinematik bir film karesinden fırlamış gibi hissettiren bu tasarım, ruhunuzdaki geçmişe özlemi dışa vuruyor.",
+    "occasion": "Rüzgarlı Havalar / Geçiş Mevsimi",
     "bodyType": "Her beden için ideal",
-    "pairsWith": ["", ""],
+    "pairsWith": ["Deri Ceket", "Minimalist Takılar", "Nostaljik Çizmeler"],
     "media": {
-      "images": [
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_front_view.png",
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_back_view.png",
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_right_profile.png",
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_left_profile.png"
-      ],
-      "hasVideo": False
+        "images": [
+            "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_front.png",
+            "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_back.png",
+            "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_left.png",
+            "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_right.png"
+        ],
+        "hasVideo": False
     }
 }
 
 data.append(new_item)
 
-with open(file_path, 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+with open("koleksiyon.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
 
-print("koleksiyon.json updated successfully.")
+print("koleksiyon.json updated successfully with Parizyen Nostalji.")

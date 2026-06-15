@@ -1,76 +1,99 @@
 [
-  {
-    "id": "item-001",
-    "title": "Hamsa",
-    "category": "Elbise",
-    "occasion": "Günlük önemli aktiviteler",
-    "slogan": "Şefkat, Bereket ve Korunma",
-    "description": "Anadolu ve Ortadoğu'nun en kadim sembollerinden Fatma Ana'nın Eli'nin şefkatli ve sarsılmaz koruyucu gücünü fiziksel bir boyuta taşıyan elbise, nazarı sertçe geri yansıtmaktan ziyade bedeni saran ve içsel gücü mühürleyen sessiz bir frekans alanı olarak tasarlandı. Bu yüksek bilinci ve arınmayı temsil etmesi adına tasarımda, doğada kendi formunu koruyan, nefes alan, mat ve tamamen sunilikten uzak parşömen ve bulut tonlarında tok bir keten-ipek karışımı tercih edildi. Düz kesim, ince askılı ve yırtmaçsız olarak heykelsi bir netlikle bedeni kavrayan bu kalıbın üzerinde Hamsa motifi, kumaşa basılmış bir desen olarak değil; bizzat dikiş mühendisliğiyle hayat buluyor. Gövdenin mutlak merkezinden başlayarak yakaya ve kalçalara doğru yelpaze gibi açılan beş adet belirgin yapısal nervür dikiş, koruyucu elin beş parmağını soyutlarken; bu mimari hatların kesiştiği noktaya yerleştirilen ton-sür-ton mat ham inci detayı, sembolik avuç içinin enerji odağını oluşturuyor. Işığı parlatmak yerine yumuşatarak emen ve sadece kumaş üzerindeki minimalist gölgelerin konuşmasına izin veren bu eser, dış dünyanın kaotik enerjilerinden sıyrılıp kendi merkezinde, tamamen cool ve sofistike bir ihtişamla dik durmak isteyenler için modern bir zırh niteliği taşıyor.",
-    "bodyType": "Her beden için ideal",
-    "pairsWith": [
-      "",
-      ""
-    ],
-    "media": {
-      "images": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJrKsANAAFK7X41IHmEuqz_-ZO0RaLOOk6fbVg1i2dJVTzlhs5U6DRNhC0ega-_Vu6M5yZm0d7fQT3KyR1vblP8ksDc9aNDIaeeovtIx0tIwoLNaC42gQt19wBl6QNApcRV03Z8GBiY9UPufbrLPKp17DDi3zmFy0nuMiL_qlrwLZNcZe9XizzZnco5E/s1200/tabirly-fatma-ananin-eli-main.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxPjuwFyIBFw66NzhZ7Jz1ouNq8b9ALHSnpMqbZEkov_7_dO3K6aIumcQh8PiknMubC20NtZnxt_FhSprchFNaHqmt2CmCjIi8aAPq9e2H0zZcdopjTNpjV4yfDm30pPI4aHpCWMk2ytxsOa2ipR_Eby8B5u2y7Sy4DxGYQNq18WmaXLwzg1l_9k30KrY/s1200/tabirly-fatma-ananin-eli-2.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BM73s1zQKHpY9y04X5f4BUuMXL3Vq6fpAsrqzBCiBTzki5WMiGseR9MKZbeJzm6OgN7_JPuwvxsbMCGrCX6cTvXcN62yG_zb6OJiCHHh4vpmkM2Q-V1H5I69oCa3EXeU6wPDCV5BOg-Nvn_pLfGXOiVCkeyEr5cmBhBVCHCTwHNa30Sq3_LYUwiOr7E/s1200/tabirly-fatma-ananin-eli-arkadan.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgplfi5CLyfS_IBDY3pFuxGNis-uHHZDikLJqY9msEW7WIEJhJxCLS2kHdmcOyKZ6FxJh64jstwbglH7HdCTU0HI5CEpzsFF3BPHnpX0imDT3SOzfAAFGF1-AHDZd_Y11oHRa6FDrsHKPo-yti_hqAx7MyLqpoYQgUMFiIewNf5uQfxd8FIj7sYFr-YVmg/s1200/tabirly-fatma-ananin-eli-yandan.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVe-kq_Ispz71T5LWH_A9aORKgE-NM05Rgmslsooa-6LJ950qN121k_PgMRcH8w3ISRGAu-JoDqvF0r7VIXy8lgy9uQa7zT2RPk_GbQ52iM_0z6OT_HM1BBK-rJA3mOCbH87thyzor4u-VSplSzgsg7q-OuV6fvSdhESE0CD_3xY4oBCyjTpcNvgZdWuY/s1200/tabirly-fatma-ananin-eli-parlament-mavisi.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWq4ul8GIMIuAW72D2CA6bs1YrFzuTs2D3wowMHSZDyj9DOK2ynF8SHXAOqZvU_J88DPFplqLzIh-TjPIruXMqWDvAD8eF9RrSv1Onea5oovHMIeauZc-TxFX8I2gDXNdLsJzT3lZ43Ou0mRVL5pFuyO3PXj7krGSbgRlSof67oE8n-4vkA-dt7YgdIO8/s1200/tabirly-fatma-ananin-eli-pembe.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkabfacvtULdgPfZdjtvxT5_rvG4XEmmqPyBSCj4qENjM-flnG4WfXFdFFxdRVbKvnk8kw3yDiOiLsBhNPSh6gIl4jhrWOK-_Bjdbb4wqdGtG4j83t5fxof2GMiSDRyzL6-e2HMmiRRVbj_FRecyI02fewsCb4SS9f1miqrqy4pnE3lGsxDTwSktGkwGg/s1200/tabirly-fatma-ananin-eli-beyaz.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP-UeiZ2gMmD-ncaKV6YXtse8b6JjJS_TdGJI7p4yLNsCdqXtS227BA_-iheOazeZ0Y3gmWnSXODcAVk0Qo6TpZlJ9jNDB81lV0cJVuqN8BPcIbnEKsoAorjh_OZllZvXK8JoyWmrsP7slqKV9ozTSq7Fcr86HwapG6rDiKfsvvcoM7WjlTgkF8D7sG5Y/s1200/tabirly-fatma-ananin-eli-siyah.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-bYNBxTV133nXHiZ_YtQzmzM7OlSG5Zxz0b1AS-Kgs5VCeeqiOuRHotL0uTYcEmDixqxvLNia3ORAhiLd8UhhfIwW91syBtEq-Hg4R2foYwLBegTNYh9czdtNL3bd5zLRI5TDgFYzj6uRwnJworTNjswrGxuF2SNS02Z27VKr_nXlyWr7Ma5QTcvOURo/s1200/tabirly-fatma-ananin-eli-mor.jpeg"
-      ],
-      "hasVideo": false
+    {
+        "id": "item-001",
+        "title": "Hamsa",
+        "category": "Elbise",
+        "occasion": "Günlük önemli aktiviteler",
+        "slogan": "Şefkat, Bereket ve Korunma",
+        "description": "Anadolu ve Ortadoğu'nun en kadim sembollerinden Fatma Ana'nın Eli'nin şefkatli ve sarsılmaz koruyucu gücünü fiziksel bir boyuta taşıyan elbise, nazarı sertçe geri yansıtmaktan ziyade bedeni saran ve içsel gücü mühürleyen sessiz bir frekans alanı olarak tasarlandı. Bu yüksek bilinci ve arınmayı temsil etmesi adına tasarımda, doğada kendi formunu koruyan, nefes alan, mat ve tamamen sunilikten uzak parşömen ve bulut tonlarında tok bir keten-ipek karışımı tercih edildi. Düz kesim, ince askılı ve yırtmaçsız olarak heykelsi bir netlikle bedeni kavrayan bu kalıbın üzerinde Hamsa motifi, kumaşa basılmış bir desen olarak değil; bizzat dikiş mühendisliğiyle hayat buluyor. Gövdenin mutlak merkezinden başlayarak yakaya ve kalçalara doğru yelpaze gibi açılan beş adet belirgin yapısal nervür dikiş, koruyucu elin beş parmağını soyutlarken; bu mimari hatların kesiştiği noktaya yerleştirilen ton-sür-ton mat ham inci detayı, sembolik avuç içinin enerji odağını oluşturuyor. Işığı parlatmak yerine yumuşatarak emen ve sadece kumaş üzerindeki minimalist gölgelerin konuşmasına izin veren bu eser, dış dünyanın kaotik enerjilerinden sıyrılıp kendi merkezinde, tamamen cool ve sofistike bir ihtişamla dik durmak isteyenler için modern bir zırh niteliği taşıyor.",
+        "bodyType": "Her beden için ideal",
+        "pairsWith": [
+            "",
+            ""
+        ],
+        "media": {
+            "images": [
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJrKsANAAFK7X41IHmEuqz_-ZO0RaLOOk6fbVg1i2dJVTzlhs5U6DRNhC0ega-_Vu6M5yZm0d7fQT3KyR1vblP8ksDc9aNDIaeeovtIx0tIwoLNaC42gQt19wBl6QNApcRV03Z8GBiY9UPufbrLPKp17DDi3zmFy0nuMiL_qlrwLZNcZe9XizzZnco5E/s1200/tabirly-fatma-ananin-eli-main.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxPjuwFyIBFw66NzhZ7Jz1ouNq8b9ALHSnpMqbZEkov_7_dO3K6aIumcQh8PiknMubC20NtZnxt_FhSprchFNaHqmt2CmCjIi8aAPq9e2H0zZcdopjTNpjV4yfDm30pPI4aHpCWMk2ytxsOa2ipR_Eby8B5u2y7Sy4DxGYQNq18WmaXLwzg1l_9k30KrY/s1200/tabirly-fatma-ananin-eli-2.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BM73s1zQKHpY9y04X5f4BUuMXL3Vq6fpAsrqzBCiBTzki5WMiGseR9MKZbeJzm6OgN7_JPuwvxsbMCGrCX6cTvXcN62yG_zb6OJiCHHh4vpmkM2Q-V1H5I69oCa3EXeU6wPDCV5BOg-Nvn_pLfGXOiVCkeyEr5cmBhBVCHCTwHNa30Sq3_LYUwiOr7E/s1200/tabirly-fatma-ananin-eli-arkadan.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgplfi5CLyfS_IBDY3pFuxGNis-uHHZDikLJqY9msEW7WIEJhJxCLS2kHdmcOyKZ6FxJh64jstwbglH7HdCTU0HI5CEpzsFF3BPHnpX0imDT3SOzfAAFGF1-AHDZd_Y11oHRa6FDrsHKPo-yti_hqAx7MyLqpoYQgUMFiIewNf5uQfxd8FIj7sYFr-YVmg/s1200/tabirly-fatma-ananin-eli-yandan.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVe-kq_Ispz71T5LWH_A9aORKgE-NM05Rgmslsooa-6LJ950qN121k_PgMRcH8w3ISRGAu-JoDqvF0r7VIXy8lgy9uQa7zT2RPk_GbQ52iM_0z6OT_HM1BBK-rJA3mOCbH87thyzor4u-VSplSzgsg7q-OuV6fvSdhESE0CD_3xY4oBCyjTpcNvgZdWuY/s1200/tabirly-fatma-ananin-eli-parlament-mavisi.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWq4ul8GIMIuAW72D2CA6bs1YrFzuTs2D3wowMHSZDyj9DOK2ynF8SHXAOqZvU_J88DPFplqLzIh-TjPIruXMqWDvAD8eF9RrSv1Onea5oovHMIeauZc-TxFX8I2gDXNdLsJzT3lZ43Ou0mRVL5pFuyO3PXj7krGSbgRlSof67oE8n-4vkA-dt7YgdIO8/s1200/tabirly-fatma-ananin-eli-pembe.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkabfacvtULdgPfZdjtvxT5_rvG4XEmmqPyBSCj4qENjM-flnG4WfXFdFFxdRVbKvnk8kw3yDiOiLsBhNPSh6gIl4jhrWOK-_Bjdbb4wqdGtG4j83t5fxof2GMiSDRyzL6-e2HMmiRRVbj_FRecyI02fewsCb4SS9f1miqrqy4pnE3lGsxDTwSktGkwGg/s1200/tabirly-fatma-ananin-eli-beyaz.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP-UeiZ2gMmD-ncaKV6YXtse8b6JjJS_TdGJI7p4yLNsCdqXtS227BA_-iheOazeZ0Y3gmWnSXODcAVk0Qo6TpZlJ9jNDB81lV0cJVuqN8BPcIbnEKsoAorjh_OZllZvXK8JoyWmrsP7slqKV9ozTSq7Fcr86HwapG6rDiKfsvvcoM7WjlTgkF8D7sG5Y/s1200/tabirly-fatma-ananin-eli-siyah.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-bYNBxTV133nXHiZ_YtQzmzM7OlSG5Zxz0b1AS-Kgs5VCeeqiOuRHotL0uTYcEmDixqxvLNia3ORAhiLd8UhhfIwW91syBtEq-Hg4R2foYwLBegTNYh9czdtNL3bd5zLRI5TDgFYzj6uRwnJworTNjswrGxuF2SNS02Z27VKr_nXlyWr7Ma5QTcvOURo/s1200/tabirly-fatma-ananin-eli-mor.jpeg"
+            ],
+            "hasVideo": false
+        }
+    },
+    {
+        "id": "item-002",
+        "title": "Mühr-ü Süleyman",
+        "category": "Elbise",
+        "occasion": "Günlük önemli aktiviteler",
+        "slogan": "Denge ve Korunma",
+        "description": "Osmanlı padişahlarının tılsımlı gömleklerinde taşıdığı en güçlü kalkan olan Süleyman Mührü'nün gök ile yeri, eril ile dişil enerjiyi dengeleyen o kadim matematiği elbisede modern ve feminen bir haute couture eserine dönüşüyor. Yüksek frekanslı ve organik bir koruma alanı yaratmak amacıyla, tasarımda tamamen saf parşömen ve bulut tonlarında, nefes alan, tok bir keten-ipek karışımı kullanıldı. Düz kesim, ince askılı ve yırtmaçsız olarak heykelsi bir netlikle bedeni kavrayan bu minimalist kalıp, mühür motifini bir nakış veya renkli bir baskı olarak değil; doğrudan gövdeyi saran bir dikiş mimarisi olarak taşıyor. Elbisenin göğüs ve bel kısmına yayılan, kumaşla ton-sür-ton uyumundaki yapısal kapitone (structural quilting) tekniği ve heykelsi kalın nervür dikişler, altı köşeli yıldızın iç içe geçmiş üçgenlerini sessiz bir kalkan gibi inşa ediyor. Başka hiçbir renge veya eklentiye ihtiyaç duymayan, sadece kumaşın kendi üzerindeki kusursuz dikiş kabartmalarının yarattığı sinematik gölge oyunlarıyla var olan bu tasarım; salt fiziksel bir şıklık sunmanın ötesinde, dış etkenlere kapalı, kendi merkezinde sonsuz bir denge ve aşırı sofistike bir koruma alanı arayanlar için görünmez bir zırh görevi görüyor.",
+        "bodyType": "Her beden için ideal",
+        "pairsWith": [
+            "",
+            ""
+        ],
+        "media": {
+            "images": [
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8UzVLCPwEDTJQhmxZfXhqOh-nQfk4NHVtobNjLDt6t4WJBtt5di3ADyaJcLW_5QSL6gp7vUlngjfbnFIPNZyHsiwkSckdTocFj_reObTE-Hz6BR76Ix_oVlMRf1Us_ZlI8Ns9CzTwg7090mYx4ZRAf0B-zibp7HPkgF4FJqR_mOyeOslnvDTLiNWkuho/s1200/tabirly-s%C3%BCleyman-main.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOlwDsoXu8EENMGFDiQBfhNmw9TAfpzlF9vHQoglhtRrkKmZcSMbFIFDP3CPbypqO3nig_FGv_74PpcZXp-awC57J58bvEEhSyfD9HEpf4IRRSfM54wO-PYaphLXyIDHbRmf54N9MJcj7eBFXxLsr64xnr-e_3xYXWvXz5bgDwTlGE3lnltBkCAFlmlA/s1200/tabirly-s%C3%BCleyman-yak%C4%B1n.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Vr4vmcJP_fQ7QTE2pIxYUJ4RTei34b9qznNz0FgqDszHYL3qGr0w43T1VoIT9i9QTHap6YKMDUTNk2PDLgD6zJFqddy1co7AQtKtlJuO32hNN3AmX9THYU9ojSG4KBUEmoNrJfcFH3RfmuTu5xMTRfUAmby5fx6Yk8tb_a2pZR_TEhqXnrQn8FAlBA4/s1200/tabirly-s%C3%BCleyman-arka.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmI02PL6GbNkFWFFZTAGDmGMlMX9SaRRfHyugNIL4YsuElHI8z0l1rZWqGPzvMxC7yLHMmmkvNg1NvC8ovpIgBmM3liS3Nz1qjbG04eJATHo0IR0GIaboFzBCa8Lsk2KnAyOUd-HCvj4u8cW48Lj5nn6Du7YM7CeLLbGGfUL5TpvaPz9skx5aRocNBOQQ/s1200/tabirly-s%C3%BCleyman-yan.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivZsk-ObmsXyjPV6Sgu-oaHcnjkl-ZAs_Teb4qBFLReHlH77omOW0GKMFBn0J238SnA83aceUboruKmDOl46f7-r1V0zohM4GMcOfJ1vG5SRmLn5azq-0PBVgHwnUehLmy1aTWR3F4BpHvzMU1nKlDVJeHR-rKLxNTIqi-cA4eRY-QanQupeeuxA9pt50/s1200/tabirly-s%C3%BCleyman-1.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtDg6MCVDcm7PbI5-4CMSanWNVTDWsvwNq25AnIzocu-CsLLbH8Iyg2yZbhTwm1BVgUEUWl7fGnjd9Yc2C3RoXLlGEGw4rGK8gjdjZcYVvRImCuboh9bfK78cHmjxdb0wf698hDJCq9GOeiYE0Nep1efj7ilE-prA0DZHeSBEAxoOzjU_L96aHr60Nxl0/s1200/tabirly-s%C3%BCleyman-2.jpeg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUpfH4KoRpBpmXlJOUKzDy6O0DpxV7OEWrDNihwWmJpQDfIcGB0q7ufAoL0_OkH0ZVYoR5VcjbSVd-QgKOoYNLEI6MhIuZ174gaYXj90ZDpEmPIs_e0a7rjKxJqqxGeRL55tsEMeKdL1KCAy5b0-_EVsZ7X3m9ZHMQYhowTN3jACUcDY269TT05f-BmmA/s1200/tabirly-s%C3%BCleyman-3.jpeg"
+            ],
+            "hasVideo": false
+        }
+    },
+    {
+        "id": "item-003",
+        "title": "Kayıp Atlantis",
+        "category": "Elbise",
+        "occasion": "Özel Davetler / Mezuniyet",
+        "slogan": "Derinliklerin Antik Gizemi",
+        "description": "Mermaidcore estetiği ile antik arkeolojik uygarlıkların kayıp gizemlerini harmanlayan bu tasarım, unutulmuş bir Atlantis tapınağından gün yüzüne çıkmış gibi hissettiriyor. Üst parça, su altı florasının nazik hareketlerini taklit eden dalgalı yarasa kollu, yarı saydam ve yanardöner akuamarin şifon bluzdan oluşurken; fosilleşmiş nautilus kabuklarını andıran yapılandırılmış geometrik bir korse ile desteklenmektedir. Alt parça, deniz dalgalarının köpüklerini ve antik mercan dokularını barındıran sıvı görünümlü gümüş ve deniz mavisi ipekten asimetrik pilili bir etektir. Bu ihtişamlı görünüm, antik bir motif taşıyan oksitlenmiş bronz mühür yüzük, kırık deniz camlarını andıran eklem yüzükleri ve köprücük kemiklerinden süzülen balık ağı formundaki zarif metalik vücut zinciriyle tamamlanmaktadır. Kusursuz ve tekil bir ihtişam arayanlar için.",
+        "bodyType": "Her beden için ideal",
+        "pairsWith": [
+            "",
+            ""
+        ],
+        "media": {
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_front_view.png",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_back_view.png",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_right_profile.png",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_left_profile.png"
+            ],
+            "hasVideo": false
+        }
+    },
+    {
+        "id": "item-004",
+        "title": "Parizyen Nostalji",
+        "category": "Elbise",
+        "slogan": "Geçmişin serin rüzgarlarına ipek bir dokunuş.",
+        "description": "Nostaljik ve romantik bir hava taşıyan, Fransız şıklığından (French Girl Chic) ilham alan vintage esintili anvelop elbise tasarımı. Tozlu gül kurusu rengindeki hafif ipek şifon kumaşı, rüzgarlı geçiş mevsimlerinde rüzgarla dans edecek şekilde özel olarak uyarlandı. 35mm sinematik bir film karesinden fırlamış gibi hissettiren bu tasarım, ruhunuzdaki geçmişe özlemi dışa vuruyor.",
+        "occasion": "Rüzgarlı Havalar / Geçiş Mevsimi",
+        "bodyType": "Her beden için ideal",
+        "pairsWith": [
+            "Deri Ceket",
+            "Minimalist Takılar",
+            "Nostaljik Çizmeler"
+        ],
+        "media": {
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_front.png",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_back.png",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_left.png",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/french_chic_right.png"
+            ],
+            "hasVideo": false
+        }
     }
-  },
-  {
-    "id": "item-002",
-    "title": "Mühr-ü Süleyman",
-    "category": "Elbise",
-    "occasion": "Günlük önemli aktiviteler",
-    "slogan": "Denge ve Korunma",
-    "description": "Osmanlı padişahlarının tılsımlı gömleklerinde taşıdığı en güçlü kalkan olan Süleyman Mührü'nün gök ile yeri, eril ile dişil enerjiyi dengeleyen o kadim matematiği elbisede modern ve feminen bir haute couture eserine dönüşüyor. Yüksek frekanslı ve organik bir koruma alanı yaratmak amacıyla, tasarımda tamamen saf parşömen ve bulut tonlarında, nefes alan, tok bir keten-ipek karışımı kullanıldı. Düz kesim, ince askılı ve yırtmaçsız olarak heykelsi bir netlikle bedeni kavrayan bu minimalist kalıp, mühür motifini bir nakış veya renkli bir baskı olarak değil; doğrudan gövdeyi saran bir dikiş mimarisi olarak taşıyor. Elbisenin göğüs ve bel kısmına yayılan, kumaşla ton-sür-ton uyumundaki yapısal kapitone (structural quilting) tekniği ve heykelsi kalın nervür dikişler, altı köşeli yıldızın iç içe geçmiş üçgenlerini sessiz bir kalkan gibi inşa ediyor. Başka hiçbir renge veya eklentiye ihtiyaç duymayan, sadece kumaşın kendi üzerindeki kusursuz dikiş kabartmalarının yarattığı sinematik gölge oyunlarıyla var olan bu tasarım; salt fiziksel bir şıklık sunmanın ötesinde, dış etkenlere kapalı, kendi merkezinde sonsuz bir denge ve aşırı sofistike bir koruma alanı arayanlar için görünmez bir zırh görevi görüyor.",
-    "bodyType": "Her beden için ideal",
-    "pairsWith": [
-      "",
-      ""
-    ],
-    "media": {
-      "images": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8UzVLCPwEDTJQhmxZfXhqOh-nQfk4NHVtobNjLDt6t4WJBtt5di3ADyaJcLW_5QSL6gp7vUlngjfbnFIPNZyHsiwkSckdTocFj_reObTE-Hz6BR76Ix_oVlMRf1Us_ZlI8Ns9CzTwg7090mYx4ZRAf0B-zibp7HPkgF4FJqR_mOyeOslnvDTLiNWkuho/s1200/tabirly-s%C3%BCleyman-main.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOlwDsoXu8EENMGFDiQBfhNmw9TAfpzlF9vHQoglhtRrkKmZcSMbFIFDP3CPbypqO3nig_FGv_74PpcZXp-awC57J58bvEEhSyfD9HEpf4IRRSfM54wO-PYaphLXyIDHbRmf54N9MJcj7eBFXxLsr64xnr-e_3xYXWvXz5bgDwTlGE3lnltBkCAFlmlA/s1200/tabirly-s%C3%BCleyman-yak%C4%B1n.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Vr4vmcJP_fQ7QTE2pIxYUJ4RTei34b9qznNz0FgqDszHYL3qGr0w43T1VoIT9i9QTHap6YKMDUTNk2PDLgD6zJFqddy1co7AQtKtlJuO32hNN3AmX9THYU9ojSG4KBUEmoNrJfcFH3RfmuTu5xMTRfUAmby5fx6Yk8tb_a2pZR_TEhqXnrQn8FAlBA4/s1200/tabirly-s%C3%BCleyman-arka.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmI02PL6GbNkFWFFZTAGDmGMlMX9SaRRfHyugNIL4YsuElHI8z0l1rZWqGPzvMxC7yLHMmmkvNg1NvC8ovpIgBmM3liS3Nz1qjbG04eJATHo0IR0GIaboFzBCa8Lsk2KnAyOUd-HCvj4u8cW48Lj5nn6Du7YM7CeLLbGGfUL5TpvaPz9skx5aRocNBOQQ/s1200/tabirly-s%C3%BCleyman-yan.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivZsk-ObmsXyjPV6Sgu-oaHcnjkl-ZAs_Teb4qBFLReHlH77omOW0GKMFBn0J238SnA83aceUboruKmDOl46f7-r1V0zohM4GMcOfJ1vG5SRmLn5azq-0PBVgHwnUehLmy1aTWR3F4BpHvzMU1nKlDVJeHR-rKLxNTIqi-cA4eRY-QanQupeeuxA9pt50/s1200/tabirly-s%C3%BCleyman-1.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtDg6MCVDcm7PbI5-4CMSanWNVTDWsvwNq25AnIzocu-CsLLbH8Iyg2yZbhTwm1BVgUEUWl7fGnjd9Yc2C3RoXLlGEGw4rGK8gjdjZcYVvRImCuboh9bfK78cHmjxdb0wf698hDJCq9GOeiYE0Nep1efj7ilE-prA0DZHeSBEAxoOzjU_L96aHr60Nxl0/s1200/tabirly-s%C3%BCleyman-2.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUpfH4KoRpBpmXlJOUKzDy6O0DpxV7OEWrDNihwWmJpQDfIcGB0q7ufAoL0_OkH0ZVYoR5VcjbSVd-QgKOoYNLEI6MhIuZ174gaYXj90ZDpEmPIs_e0a7rjKxJqqxGeRL55tsEMeKdL1KCAy5b0-_EVsZ7X3m9ZHMQYhowTN3jACUcDY269TT05f-BmmA/s1200/tabirly-s%C3%BCleyman-3.jpeg"
-      ],
-      "hasVideo": false
-    }
-  },
-  {
-    "id": "item-003",
-    "title": "Kayıp Atlantis",
-    "category": "Elbise",
-    "occasion": "Özel Davetler / Mezuniyet",
-    "slogan": "Derinliklerin Antik Gizemi",
-    "description": "Mermaidcore estetiği ile antik arkeolojik uygarlıkların kayıp gizemlerini harmanlayan bu tasarım, unutulmuş bir Atlantis tapınağından gün yüzüne çıkmış gibi hissettiriyor. Üst parça, su altı florasının nazik hareketlerini taklit eden dalgalı yarasa kollu, yarı saydam ve yanardöner akuamarin şifon bluzdan oluşurken; fosilleşmiş nautilus kabuklarını andıran yapılandırılmış geometrik bir korse ile desteklenmektedir. Alt parça, deniz dalgalarının köpüklerini ve antik mercan dokularını barındıran sıvı görünümlü gümüş ve deniz mavisi ipekten asimetrik pilili bir etektir. Bu ihtişamlı görünüm, antik bir motif taşıyan oksitlenmiş bronz mühür yüzük, kırık deniz camlarını andıran eklem yüzükleri ve köprücük kemiklerinden süzülen balık ağı formundaki zarif metalik vücut zinciriyle tamamlanmaktadır. Kusursuz ve tekil bir ihtişam arayanlar için.",
-    "bodyType": "Her beden için ideal",
-    "pairsWith": [
-      "",
-      ""
-    ],
-    "media": {
-      "images": [
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_front_view.png",
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_back_view.png",
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_right_profile.png",
-        "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/mermaid_left_profile.png"
-      ],
-      "hasVideo": false
-    }
-  }
 ]
