@@ -320,5 +320,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hippie-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "whimsigoth-larp-fetish",
+        "publishDate": "2026-06-15",
+        "gender": "Kadın",
+        "category": "Streetwear / Avant-Garde",
+        "title": "Mistik Şövalye: Whimsigoth & LARP Zırhı",
+        "slogan": "Karanlık fantezilerin ve gotik romantizmin sokak stiliyle kışkırtıcı çarpışması.",
+        "description": "90'ların karanlık romantizmini taşıyan Whimsigoth estetiği, bu iddialı tasarımda Canlı Aksiyon Rol Yapma (LARP) savaşçı silüetleriyle birleşiyor. Kıyafetin üst kısmında, kışkırtıcı ve fetiş esintili deri harness (askı) detaylarının üzerine atılmış, dikkat çekici, parlak, koyu renkli ve hacimli bir şişme yelek bulunuyor. Alt kısımda ise Orta Çağ fantastik zırhlarını andıran, üst bacakta dökümlü durup bileklere doğru daralan sıkı bağcıklı havuç kesim (tapered) pantolon yer alıyor. Tasarımın imza detayı olan ağır ve mistik tesbih ise bu kez boyunda değil, beli saran kışkırtıcı bir gotik zincir (rosary chain) olarak kurgulanmış. Sokaklarda yürüyen modern bir savaşçı silüeti.",
+        "occasion": "Underground Partiler / Gece Etkinlikleri",
+        "bodyType": "İddialı & Provokatif Aura",
+        "pairsWith": [
+            "Belde Tesbih Zinciri",
+            "Deri Harness",
+            "Fantastik Savaşçı Çizmeleri"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-whimsigoth-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-whimsigoth-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-whimsigoth-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-whimsigoth-close.jpeg"
+            ]
+        }
     }
 ]
