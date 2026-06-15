@@ -187,5 +187,29 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-eshay-close-shot.jpeg"
             ]
         }
+    },
+    {
+        "id": "ivy-league-terracotta-jumpsuit",
+        "publishDate": "2026-06-15",
+        "category": "High Fashion",
+        "title": "Ivy League X Terracotta: Scholarly Armor",
+        "slogan": "Akademik zarafet, antik zırhın yapısal korumasıyla birleşiyor.",
+        "description": "Gece tulumunu (evening jumpsuit) temel alan bu tasarım, klasik Ivy League estetiğini Terracotta askerlerinin kilden zırh dokularıyla harmanlayarak eşsiz bir 'yaratıcı ofis' stiline dönüştürüyor. Tamamen izole ve steril bir atmosferde konumlanan bu parça, modern şehrin zekasını antik imparatorlukların sarsılmaz gücüyle tek bir vücutta birleştiriyor. Sadece kumaşın kendi gücünün konuştuğu, tamamen yazısız ve pürüzsüz bir şıklık.",
+        "occasion": "Yaratıcı Ofis / Modern Davetler",
+        "bodyType": "Güçlü ve Minimal Aura",
+        "pairsWith": [
+            "Oxford Ayakkabı",
+            "Minimalist İnce Saat",
+            "Deri Evrak Çantası"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-close-shot.jpeg"
+            ]
+        }
     }
 ]
