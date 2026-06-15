@@ -163,5 +163,29 @@
             ],
             "hasVideo": false
         }
+    },
+    {
+        "id": "eshay-dyson-festival",
+        "publishDate": "2026-06-15",
+        "category": "Avant-Garde Streetwear",
+        "title": "Eshay X Dyson: Celestial Frequency",
+        "slogan": "Sokakların asi ruhu, mega yapıların gölgesinde yankılanıyor.",
+        "description": "Klasik 'Eshay' sokak kültürünün agresif ve dinamik tavrını, uzak gelecekteki Dyson Küreleri'nin mimari ihtişamıyla birleştiren eşsiz bir gömlek elbise tasarımı. Kalın ve katmanlı metal zincir detayları asi bir görünüm sunarken, tasarımın asimetrik kesimleri distopik ve ıssız bir açık hava müzik festivali atmosferini yansıtıyor. Sadece tek bir modelin yer aldığı bu tasarım, mutlak bir sessizliğin ortasındaki devasa bir isyan gibi.",
+        "occasion": "Açık Hava Müzik Festivali / Konsept Partiler",
+        "bodyType": "Tüm Auralar (Oversize & Yapısal Form)",
+        "pairsWith": [
+            "Kalın Tabanlı Sneaker",
+            "Koyu Renk Vizör Gözlük",
+            "Gümüş Zırh Yüzükler"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-eshay-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-eshay-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-eshay-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-eshay-close-shot.jpeg"
+            ]
+        }
     }
 ]
