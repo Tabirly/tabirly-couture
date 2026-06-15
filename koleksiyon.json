@@ -211,5 +211,29 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-close-shot.jpeg"
             ]
         }
+    },
+    {
+        "id": "deep-sea-bioluminescence-lodge",
+        "publishDate": "2026-06-15",
+        "category": "Haute Couture",
+        "title": "Abyssal Glow: The Esoteric Lodge",
+        "slogan": "Okyanusun karanlığından süzülen gizemli bir aydınlanma.",
+        "description": "Gizli bir ezoterik loca toplantısı için özel olarak tasarlanmış bu avangart tasarım, derin deniz canlılarının biyolüminesans (karanlıkta parlayan) estetiğini yansıtıyor. Yarı saydam iridesan organze kumaştan üretilen heykelsi asimetrik peplum üst, narin yüzgeçleri andırırken; gece mavisi şık kadifeden dikilmiş yere kadar uzanan denizkızı kesim etek, uçsuz bucaksız okyanusun ihtişamını ve akışkan dokusunu sergiliyor. Parlak rugan stiletto çizmeler, uzun ipek eldivenler ve narin mercan oluşumlarını andıran dalgalı metalik kulak aksesuarıyla tamamlanan bu görünüm, derinliklerin asil ve ruhani ruhunu taşıyor.",
+        "occasion": "Gizli Ezoterik Loca Toplantıları / Özel Davetler",
+        "bodyType": "Uhrevi & Asil Aura",
+        "pairsWith": [
+            "Uzun Şeffaf İpek Eldivenler",
+            "Mercan Motifli Ear Cuff",
+            "Rugan Stiletto Çizmeler"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deep-sea-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deep-sea-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deep-sea-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deep-sea-close.jpeg"
+            ]
+        }
     }
 ]
