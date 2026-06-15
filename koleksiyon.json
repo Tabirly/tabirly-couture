@@ -295,5 +295,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cult-party-kei-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "hippie-ghost-ship-funeral-men",
+        "publishDate": "2026-06-15",
+        "gender": "Erkek",
+        "category": "Dış Giyim / Avant-Garde",
+        "title": "Hayalet Gemi Cenazesi: Bohem Yas",
+        "slogan": "Derin denizlerin hüznü ve rüzgarın taşıdığı karanlık bir veda.",
+        "description": "Hippie stilinin o özgür, katmanlı ve bohem ruhunu, 'Cenaze ve Yas' temasının simsiyah ağırlığıyla birleştiren olağanüstü bir avangart erkek tasarımı. Konseptini uçsuz bucaksız okyanuslarda kaybolan 'Hayalet Gemiler'den (Ghost Ships) alan tasarımın merkezinde, uçları rüzgarda parçalanmış bir yelkeni andıran, deniz tuzu ve midye kabuğu dokularıyla işlenmiş ağır, asimetrik bir siyah kaşe kaban bulunuyor. Kabanın altına giyilen dökümlü, koyu renkli İspanyol paça pantolon, karanlık bir denizin dalgalarını andırıyor. Melankolik atmosfere eşlik eden vintage yuvarlak siyah yas gözlükleri ve göğüste taşıdığı oksitlenmiş ağır denizci madalyonu, bu 'yas tutan bohem denizci' silüetine imzasını atıyor.",
+        "occasion": "Karanlık Konseptler / Melankolik Toplanmalar",
+        "bodyType": "Ağır & Melankolik Aura",
+        "pairsWith": [
+            "Oksitlenmiş Denizci Madalyonu",
+            "Vintage Yuvarlak Yas Gözlükleri",
+            "Ağır Deri Çizmeler"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hippie-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hippie-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hippie-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hippie-close.jpeg"
+            ]
+        }
     }
 ]
