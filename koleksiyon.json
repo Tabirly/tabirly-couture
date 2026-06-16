@@ -543,5 +543,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hellenic-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "pastel-academia-tarot-loungewear",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "Üst & Alt Takım",
+        "title": "Yumuşak Kehanetler: Pastel Academia Rüyası",
+        "slogan": "Romantik pastel tonların, antik Tarot kehanetleriyle uykuya daldığı bir pazar sabahı.",
+        "description": "Entelektüel ve yumuşak Pastel Academia estetiğini, derin bir mistisizmle (Tarot ve Major Arcana) çarpıştıran avangart bir Hafta Sonu Rahatlığı (Weekend Casual) tasarımı. Lavanta, nane yeşili ve toz pembe tonlarındaki lüks ve oversize ipek Pijama Takımı, sıradan desenler yerine inanılmaz detaylı, yüksek moda estetiğiyle çizilmiş antik Tarot kartı illüstrasyonları ve gizemli kehanet geometrileriyle kaplı. Modelin ayağındaki basit Parmak Arası Terlik (Flip-flops) ise sıradanlıktan tamamen çıkarak kalın platformlu (chunky), pastel renkli ve heykelsi bir yüksek moda parçasına dönüşüyor. Ev giyiminin yumuşaklığı ile kaderi okuyan antik bir kahinin kusursuz zıtlığı.",
+        "occasion": "Hafta Sonu Rahatlığı / Ev İçi Gösteriş",
+        "bodyType": "Romantik & Mistik Aura",
+        "pairsWith": [
+            "Platform Parmak Arası Terlik",
+            "İpek Kehanet Pijaması",
+            "Antik Tarot Motifleri"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-pastel-academia-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-pastel-academia-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-pastel-academia-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-pastel-academia-close.jpeg"
+            ]
+        }
     }
 ]
