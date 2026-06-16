@@ -519,5 +519,29 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-normcore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "hellenic-telepathy-city",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "Dış Giyim",
+        "title": "Zihin Dalgaları: Antik Yunan'ın Fütüristik Şehir Turu",
+        "slogan": "Ağır kış kumaşlarının, telepatik frekanslarla ve heykelsi bir asaletle yeniden dokunması.",
+        "description": "Klasik Antik Yunan (Hellenic) silüetlerinin, Şehir Keşfi (City Sightseeing) ve ağır kışlık giyimle buluştuğu bu avangart tasarım, gücünü Telepati ve Zihin Okuma temasından alıyor. Modelin tek omzundan dökümlü bir toga gibi inen devasa Saç Örgüsü Kazak (Cable Knit), üzerinde yayılan telepatik beyin dalgalarını andıran metalik iplikler taşıyor. Bu parça, adeta bir Yunan tapınağı sütununu andıran plili Godet Etek ve diz üstü deri çizmelerle (Thigh-high boots) kombinleniyor. Omuzlardan sarkan yapısal Mackintosh Yağmurluk kadim bir filozof pelerini hissi verirken, boynundaki kalın Kaşkol yerçekimine meydan okuyarak telekinezi ile havada süzülüyor. Eldeki parlayan bir sinir ağını andıran File Çanta ve bilekteki psişik bir amplifikatör gibi duran fütüristik Kelepçe, bu mitolojik şehir gezginini bir bilimkurgu rüyasına hapsediyor.",
+        "occasion": "Şehir Keşfi / Turistik (City Sightseeing)",
+        "bodyType": "Heykelsi & Psişik Aura",
+        "pairsWith": [
+            "Telepatik Saç Örgüsü",
+            "Havada Süzülen Kaşkol",
+            "Sinir Ağı File Çanta"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hellenic-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hellenic-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-hellenic-close.jpeg"
+            ]
+        }
     }
 ]
