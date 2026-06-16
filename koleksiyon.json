@@ -590,5 +590,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-campcore-lingerie.jpeg"
             ]
         }
+    },
+    {
+        "id": "gorpcore-technical-yukata",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Nostaljik İnziva: Teknik Yukata",
+        "slogan": "Geleneksel huzurun, su geçirmez kumaşlar ve çocukluk anılarıyla fütüristik meditasyonu.",
+        "description": "Dağcılık ve kamp donanımlarını yüksek modaya uyarlayan Gorpcore estetiğinin, tamamen geleneksel Japon Yukatası ile birleştiği teknik bir şaheser. Meditasyon ve İnziva (Wellness Retreat) ortamı için tasarlanan bu Teknik Yukata, geleneksel pamuklu kumaş yerine tamamen su geçirmez ripstop naylon ve Gore-Texten üretildi. Klasik Obi kuşağı yerini, kalın tırmanış kemerlerine ve manyetik taktik tokalara bırakıyor. Ancak bu sert teknik görünümün ardında derin bir Geçmişe Özlem (Nostalgia) teması yatıyor: 1990ların eski aile kamp çadırlarını anımsatan soluk vintage renk paleti (deniz mavisi, hardal sarısı, yanık turuncu) ve ceplere işlenmiş hafif yıpranmış kamp anı yamaları... Model, bu teknik kalkanın içinde derin bir iç huzur ve meditasyon halinde duruyor.",
+        "occasion": "Meditasyon ve İnziva / Wellness Retreat",
+        "bodyType": "Teknik & Huzurlu Aura",
+        "pairsWith": [
+            "Manyetik Taktik Kemer",
+            "Ripstop Gore-Tex Kumaş",
+            "Nostaljik Kamp Yamaları"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-gorpcore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-gorpcore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-gorpcore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-gorpcore-close.jpeg"
+            ]
+        }
     }
 ]
