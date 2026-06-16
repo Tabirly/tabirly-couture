@@ -469,5 +469,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-belle-epoque-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "mob-wife-fibonacci-award",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Fibonacci'nin Kibri: Kusursuz Mob Wife",
+        "slogan": "Kışkırtıcı gösterişin, matematiksel bir mükemmellikle ehlileştirildiği kırmızı halı silüeti.",
+        "description": "Gösterişli ve kışkırtıcı Mob Wife estetiğinin o avaz avaz bağıran lüksünü, evrenin en kusursuz matematiği olan Fibonacci dizisi (Altın Oran) ile birleştiren dâhice bir Ödül Töreni (Award Ceremony) tasarımı. Dar kesim Kılıf Elbise (Sheath) üzerindeki egzotik hayvan deseni rastgele değil; benekler Altın Orana göre büyüyüp küçülerek bedeni saran hipnotik bir spiral illüzyonu yaratıyor. İhtişamlı ve kabarık saçları, tam bir nautilus spirali şeklinde som altından yontulmuş devasa bir saç manşeti (hair cuff) zapt ediyor. Ayaklardaki lüks Katır Topukları (Mule) süsleyen mimari ve ağır altın halhal ile kulaklardaki orantılı top küpeler, bu ağır gösterişi matematiksel bir heykeltraş titizliğiyle tamamlıyor.",
+        "occasion": "Ödül Törenleri / Kırmızı Halı",
+        "bodyType": "İddialı & Gösterişli Aura",
+        "pairsWith": [
+            "Spiral Altın Saç Manşeti",
+            "Mimari Altın Halhal",
+            "Devasa Top Küpeler"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-mob-wife-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-mob-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-mob-wife-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-mob-wife-close.jpeg"
+            ]
+        }
     }
 ]
