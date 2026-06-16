@@ -615,5 +615,55 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-gorpcore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "blokecore-industrial-airport-woman",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "Kolsuz ve Askılı Üstler",
+        "title": "Sanayi Transit: Blokecore Havalimanı",
+        "slogan": "Salaş havalimanı stilinin, yağ lekeli ağır sanayi işçiliğiyle sarsıcı çarpışması.",
+        "description": "Blokecore akımının o ultra salaş 90lar rahatlığını, ağır sanayi (Industrial Workwear) estetiğiyle kışkırtıcı bir şekilde birleştiren avangart bir Uzun Uçuş / Havalimanı tasarımı. Modelin üzerindeki narin Kaşkorse (Cami), ipek yerine yağ lekeli, fosforlu ağır işçi üniformalarından sökülüp yeniden dikilmiş. Altındaki salaş Board Shorts uçuş rahatlığı sağlarken, kumaşı Carhartt tarzı ağır sanayi kanvasından. Havalimanı konforu için Makosen giyen model, elinde fabrika alet çantasına benzeyen devasa bir Bez Çanta taşıyor. Asıl vurucu detaylar aksesuarlarda: Saçlarına hair ring olarak sanayi somunları ve pullar örülmüş. Boynunda çark sarkıt kolyesi, parmağında çelik şövalye yüzüğü, kulağında ise damlayan motor yağı şeklinde damla küpe var. Yüzündeki tek camlı Cyclops Visor gözlük ise kaynak maskesini andıran fütüristik bir hava katıyor.",
+        "occasion": "Uzun Uçuş / Havalimanı Stili",
+        "bodyType": "Endüstriyel & Salaş Aura",
+        "pairsWith": [
+            "Sanayi Somunu Saç Halkaları",
+            "Motor Yağı Damla Küpe",
+            "Kaynakçı Cyclops Gözlük"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-woman-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-woman-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-woman-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-woman-close.jpeg"
+            ]
+        }
+    },
+    {
+        "id": "blokecore-industrial-airport-man",
+        "publishDate": "2026-06-16",
+        "gender": "Erkek",
+        "category": "Tişörtler ve Atletler",
+        "title": "Sanayi Transit: Blokecore Havalimanı (Erkek)",
+        "slogan": "Maskülen endüstrinin, cinsiyet sınırlarını yıkan avangart havalimanı yorumu.",
+        "description": "Blokecore akımının 90lar salaşlığını ve ağır sanayi (Industrial Workwear) estetiğini, erkek giyiminde kışkırtıcı bir şekilde yeniden yorumlayan Uzun Uçuş tasarımı. Cinsiyet sınırlarını yıkan (gender-fluid) avangart bir hamleyle, kaslı erkek modelin üzerinde yağ lekeli, fosforlu ağır sanayi üniformalarından dönüştürülmüş maskülen ve narin bir Kaşkorse (Cami) yer alıyor. Altında ağır işçi kanvasından üretilmiş bol Board Shorts ve ayaklarında rahat Makosenler var. Elinde fabrika alet çantasını andıran devasa bir Bez Çanta taşıyor. Saçlarına örülmüş sanayi somunları, çelik şövalye yüzüğü, çark sarkıt kolyesi ve kulağından damlayan siyah motor yağı şeklindeki damla küpeyle endüstriyel kibri zirveye taşıyor. Yüzündeki kaynakçı maskesi formundaki Cyclops Visor gözlükle kusursuz bir kural yıkıcılık sergiliyor.",
+        "occasion": "Uzun Uçuş / Havalimanı Stili",
+        "bodyType": "Endüstriyel & Gender-Fluid Aura",
+        "pairsWith": [
+            "Yağ Lekeli Erkek Kaşkorse",
+            "Çelik Şövalye Yüzük",
+            "Ağır Kanvas Board Shorts"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-man-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-man-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-man-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-man-close.jpeg"
+            ]
+        }
     }
 ]
