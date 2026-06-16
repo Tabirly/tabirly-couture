@@ -665,5 +665,31 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-blockecore-man-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "bosozoku-clinical-nightgown",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Klinik Başkaldırı: Bosozoku Geceliği",
+        "slogan": "Regl döngüsünün savunmasızlığını, steril laboratuvarlarda agresif bir başkaldırıya dönüştüren saf silüet.",
+        "description": "Acıyı ve savunmasızlığı alıp agresif bir başkaldırıya dönüştüren inanılmaz bir avangart tasarım. Japon Bosozoku motosiklet çetelerinin kural tanımaz isyanı ile Klinik ve Biyotehlike (Biohazard) temasının steril soğukluğunu birleştiren bu konsept, tamamen aksesuarlardan arındırılarak sadece kumaşın gücüne odaklanıyor. Modelin üzerindeki devasa ve ultra-rahat Gecelik (Nightgown), Bosozoku çetelerinin meşhur tokkō-fuku kabanları formunda, bembeyaz steril hastane kumaşından dikilmiş. Geceliğin üzeri ise kan kırmızısı biyotehlike sembolleri, medikal haçlar ve sert laboratuvar kanjileri ile yoğun bir şekilde işlenmiş. Regl Dönemi Rahatlığı (Period Comfort) kavramı, herhangi bir dikkat dağıtıcı obje olmadan, sadece bu devasa geceliğin ham ve asi silüetiyle steril bir şova dönüşüyor.",
+        "occasion": "Regl Dönemi / Ev İçi Başkaldırı",
+        "bodyType": "Agresif & Steril Aura",
+        "pairsWith": [
+            "Kan Kırmızısı İşlemeler",
+            "Devasa Tokkō-Fuku Formu",
+            "Steril Hastane Kumaşı"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bosozoku-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bosozoku-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bosozoku-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bosozoku-close.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bosozoku-sofa.jpeg"
+            ]
+        }
     }
 ]
