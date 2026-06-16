@@ -494,5 +494,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-mob-wife-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "normcore-solomonic-cabin",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "Üst & Alt Takım",
+        "title": "Sıradanlığın Karanlık Yüzü: Normcore Okültizm",
+        "slogan": "Banal bir orman kaçamağının, şeytan bağlayan antik mühürlerle tekinsiz dansı.",
+        "description": "En sıradan, gösterişsiz ve banal giyim tarzını savunan Normcore estetiği, bu avangart tasarımda klasik bir Orman Kulübesi (Cabin in the Woods) konseptiyle buluşuyor; ancak derinlerde yatan ağır okültizmle tamamen tekinsizleşiyor. Yüksek bel standart bir kot pantolon, basit bir V yaka tişört ve sıradan bir Crop Hırka kombinine dikkatlice bakıldığında, hırkanın örgüsünde ve ağır Yağmur Botlarının (Wellington) kauçuk dokusunda gizlenmiş, antik Süleyman Mühürleri (Solomonic Sigils) fark ediliyor. Bu sıradan orman estetiğini tamamen kıran kusursuz İnci Kolye anokronik bir zıtlık yaratırken; saçların arasına karışan avangart Saç Sarmaşığı (Hair vine) çiçeklerden değil, gümüş rengi şeytan bağlayan mühürlerden oluşarak izleyiciye gizemli bir dehşet sunuyor.",
+        "occasion": "Orman Kulübesi Kaçamağı / Gündelik Şıklık",
+        "bodyType": "Tekinsiz & Minimalist Aura",
+        "pairsWith": [
+            "Mühürlü Saç Sarmaşığı",
+            "Kauçuk Yağmur Botları",
+            "Aristokrat İnci Kolye"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-normcore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-normcore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-normcore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-normcore-close.jpeg"
+            ]
+        }
     }
 ]
