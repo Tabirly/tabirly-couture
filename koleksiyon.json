@@ -568,5 +568,27 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-pastel-academia-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "campcore-goetic-postpartum",
+        "publishDate": "2026-06-16",
+        "gender": "Kadın",
+        "category": "İç Giyim",
+        "title": "Mühürlü Doğum: Goetic Campcore Şovu",
+        "slogan": "Hastane çıkışının tiyatral abartısı ve Süleyman'ın kadim iblisleriyle provokatif buluşması.",
+        "description": "Bir Hastane Çıkışı (Postpartum) anının o yorgun ve sıradan estetiğini tamamen alaycı bir kibre dönüştüren şatafatlı bir Campcore eseri. Yeni anne, rahat bir eşofman veya standart bir gecelik yerine, tiyatral bir kraliçe pelerini gibi savrulan devasa ipek hastane önlüğünün içinde son derece kışkırtıcı bir Push-up Sütyen ve High-cut külot takımıyla yürüyor. Bu iç çamaşırının asıl şoku ise kumaşında gizli: Üzerinde sıradan danteller yerine, efsanevi Kral Süleyman'ın 72 iblisini (Ars Goetia) temsil eden karmaşık ve altın rengi Goetic Şeytan mühürleri işlenmiş. Yeni doğmuş bir yaşam ile kadim karanlık demonolojinin, abartılı bir moda şovunda buluştuğu yüksek kışkırtıcılık.",
+        "occasion": "Hastane Çıkışı (Postpartum) / Yeni Doğum",
+        "bodyType": "Tiyatral & Provokatif Aura",
+        "pairsWith": [
+            "İpek Hastane Pelerini",
+            "Goetic Altın Mühürler",
+            "Tiyatral Kibir"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-campcore-lingerie.jpeg"
+            ]
+        }
     }
 ]
