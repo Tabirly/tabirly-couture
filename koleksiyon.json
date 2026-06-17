@@ -691,5 +691,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bosozoku-sofa.jpeg"
             ]
         }
+    },
+    {
+        "id": "casual-crystalline-loungewear",
+        "publishDate": "2026-06-17",
+        "gender": "Kadın",
+        "category": "Hırkalar ve Kazaklar",
+        "title": "Yüksek Titreşimli Rahatlık: Kristal Hırka",
+        "slogan": "Günlük ev rahatlığının, doğal taşların sihirli ve yüksek frekanslı aurasıyla buluşması.",
+        "description": "En sıradan ev içi (Loungewear) dinlenme anını bile enerjetik ve büyülü bir yüksek moda şovuna dönüştüren Yüksek Titreşimli Rahatlık konsepti. Modelin üzerindeki dökümlü Gaucho Pantolon ve Bisiklet Yaka Tişört, cilalanmış pembe kuvars ve sitrin taşlarını andıran, ışığı kıran şeffaf (translucent) kumaşlardan tasarlandı. Ancak tasarımın asıl yıldızı olan devasa Şal Yaka Hırka, sıradan bir yün yerine dev bir ametist jeodunun (kristal mağarası) o girintili çıkıntılı, ham ve parlayan dokusunu yansıtacak inanılmaz bir terzilikle optik bir illüzyonla işlenmiş. Saçlarını toplayan parlak kristal boncuklu saç filesi (snood), göğsünden sarkan ham kuvars Lariat kolyesi ve şeffaf kristal tabanlı günlük spor ayakkabılarıyla model, evin içinde dahi kozmik, lüks ve rahat bir aura yayıyor.",
+        "occasion": "Ev İçi / Dinlenme (Loungewear)",
+        "bodyType": "Enerjetik & Rahat Aura",
+        "pairsWith": [
+            "Ametist Jeod Hırka",
+            "Şeffaf Sitrin Gaucho Pantolon",
+            "Ham Kuvars Lariat Kolye"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-close.jpeg"
+            ]
+        }
     }
 ]
