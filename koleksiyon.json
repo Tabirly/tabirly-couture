@@ -716,5 +716,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "victorian-tectonic-poncho",
+        "publishDate": "2026-06-17",
+        "gender": "Kadın",
+        "category": "Kabanlar ve Montlar",
+        "title": "Tektonik Çatlaklar: Victorian Ponço",
+        "slogan": "Karanlık romantizmin fay hatlarında gerçekçi ve hipnotik bir terzilik şovu.",
+        "description": "Karanlık Victorian romantizmini, Deprem Işıklarının (Tectonic Bioluminescence) doğaüstü aurasıyla tamamen fiziksel bir terzilik şovuna dönüştüren editoryal bir başyapıt. Keskin hatlı, tek sıra düğmeli (single-breasted) Victorian takımın üzerinde, gerçek bir fay hattı gibi paramparça olmuş devasa, kalın ve siyah bir Victorian Ponço yer alıyor. Ancak bu çatlakların arasından herhangi bir dijital veya fantastik ışık değil; elektrik mavisi, mor ve yeşil renkte yanardöner (iridescent) parlak ipek kumaşlar fışkırıyor. Işık ve yansıma oyununu sadece ustaca manipüle edilmiş kumaşlarla başaran bu gerçekçi tasarım; zarif T-Strap topuklu ayakkabıları, yapısal Bileklik Çantası (Wristlet), kalın Huggie küpeleri ve yüze derin gölgeler düşüren devasa Victorian şapkasıyla kusursuz bir karanlık moda (dark fashion) heykeline dönüşüyor.",
+        "occasion": "Editoryal Çekim (Editorial Photoshoot)",
+        "bodyType": "Karanlık & Keskin Aura",
+        "pairsWith": [
+            "Fay Hattı Yırtıklı Ponço",
+            "Yanardöner İpek Kumaşlar",
+            "Devasa Victorian Şapka"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-victorian-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-victorian-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-victorian-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-victorian-close.jpeg"
+            ]
+        }
     }
 ]
