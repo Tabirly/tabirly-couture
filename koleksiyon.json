@@ -741,5 +741,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-victorian-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "clean-girl-woodland-honeymoon",
+        "publishDate": "2026-06-18",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Sade Bir Peri Masalı: Orman Balayısı",
+        "slogan": "Kusursuz minimalizmin, büyülü bir ormanın fısıltılarıyla pürüzsüz buluşması.",
+        "description": "Efor sarf edilmemiş gibi duran kusursuz Clean Girl estetiğinin, Büyülü Orman (Enchanted Forest) temasıyla zarifçe harmanlandığı romantik ama son derece modern bir balayı tasarımı. Modelin üzerindeki dikişsiz, kırık beyaz Bodycon Elbise, pürüzsüz silüeti desteklerken; üzerindeki Triko Yelek, ağaç kabuğu ve yaprak dokularını andıran çok ince ve organik bir örgü tekniğiyle işlenmiş. Bu yumuşak ve sade görünüm, bele oturan katı ve mimari bir Obi Kuşağı ile sertleştirilerek yüksek moda çizgisine çekilmiş. Sımsıkı geriye taranıp ipek bir kurdeleyle toplanan saçlar, incecik Stilettolar ve avangart Micro (Tiny) gözlükler, bu modern orman perisi görünümüne kusursuz ve havalı (effortless cool) bir editoryal dokunuş katıyor.",
+        "occasion": "Balayı (Honeymoon)",
+        "bodyType": "Kusursuz & Minimal Aura",
+        "pairsWith": [
+            "Mimari Obi Kuşağı",
+            "Organik Dokulu Triko Yelek",
+            "Micro Gözlük"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clean-girl-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clean-girl-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clean-girl-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clean-girl-close.jpeg"
+            ]
+        }
     }
 ]
