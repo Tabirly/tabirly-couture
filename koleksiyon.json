@@ -766,5 +766,29 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clean-girl-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "dreamcore-anarchic-sunsafe",
+        "publishDate": "2026-06-18",
+        "gender": "Kadın",
+        "category": "Kabanlar ve Montlar",
+        "title": "Gerçeküstü İsyankar: Holografik Sığınak",
+        "slogan": "Güneşe karşı en asi ve tekinsiz yüksek moda kalkanı.",
+        "description": "Dreamcore akımının o tekinsiz, gerçeküstü nostaljisini, anarşist (Anti-Establishment) bir başkaldırıyla harmanlayan kural yıkıcı bir Güneş Korumalı (Sun-Safe) tasarımı. Modelin üzerindeki isyankar ufak Bralet ve gerçeküstü desenlere sahip Midi Etek, anarşist tavrı vurgularken; güneşe karşı asıl kalkan, UV ışınlarını tamamen yansıtan devasa, holografik bir Kapitone Ceket (Quilted Jacket). Bu ceket adeta giyilebilir bir yüksek moda sığınağı işlevi görüyor. Klasik Pump topuklularla tezatlık yaratan devasa Hafta Sonu Çantası, asi sprey boyalarla kaplı. Gözleri tamamen kapatıp yüzü güneşten koruyan fütüristik Cyberpunk LED Gözlükler, kalın Mühür Yüzük, Avize Küpeler ve asiliği zirveye taşıyan metalik Grillz (Diş Takısı) ile bu tasarım; sonsuz ve tekinsiz pastel bir koridorda güneşe meydan okuyor.",
+        "occasion": "Güneş Korumalı / UV Filtreli",
+        "bodyType": "Gerçeküstü & Asi Aura",
+        "pairsWith": [
+            "Holografik Kapitone Sığınak Ceketi",
+            "Cyberpunk UV Gözlük",
+            "Metalik Grillz"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dreamcore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dreamcore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dreamcore-back.jpeg"
+            ]
+        }
     }
 ]
