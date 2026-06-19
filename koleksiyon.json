@@ -840,5 +840,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-voynich-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "beatnik-nessie-leisure",
+        "publishDate": "2026-06-19",
+        "gender": "Kadın",
+        "category": "Üst & Alt Takım",
+        "title": "Karanlık Sular: Beatnik Efsanesi",
+        "slogan": "Entelektüel sanatın, derin göl efsaneleriyle bohem buluşması.",
+        "description": "1950lerin karanlık ve entelektüel Beatnik bohem stilini, Loch Ness Canavarı (Nessie) efsanesiyle birleştiren kusursuz bir Tiyatro ve Sanat Galerisi (Art Exhibition) tasarımı. Modelin üzerindeki 70ler esintili geniş yakalı bol Leisure Suit (Rahat Takım), derin ve karanlık göl sularını (murky loch-green) andıran yosun yeşili kadifeden özel olarak dikilmiş. Takımın altındaki vintage Baskılı Tişörtte (Graphic Tee) gizemli bir denizaltı sonar dalgası yer alıyor. Modelin elindeki klasik El Çantası (Top Handle Bag), derin su efsanesine (cryptid) gönderme yapan parlak sürüngen pullarından yapılmış. Ayağında galeride gezinme rahatlığı sunan zarif Sivri Burun Babetler bulunurken, aksesuarları karanlık efsaneyi tamamlıyor: Su damlalarını andıran Sallantılı (Drop) küpeler, sualtı yosunları veya yılan kıvrımları formundaki kalın Gerdanlık, deniz motifli Charm Bileklik ve minimalist bir Tamtur (Eternity Band).",
+        "occasion": "Tiyatro / Sanat Etkinliği",
+        "bodyType": "Entelektüel & Gizemli Aura",
+        "pairsWith": [
+            "Loch Gölü Kadife Takım",
+            "Pullu Sürüngen El Çantası",
+            "Sonar Baskılı Tişört"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-beatnik-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-beatnik-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-beatnik-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-beatnik-close.jpeg"
+            ]
+        }
     }
 ]
