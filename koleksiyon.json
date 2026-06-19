@@ -790,5 +790,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dreamcore-back.jpeg"
             ]
         }
+    },
+    {
+        "id": "rocker-nonchalant-influencer",
+        "publishDate": "2026-06-19",
+        "gender": "Kadın",
+        "category": "Tişörtler ve Atletler",
+        "title": "Çabasız Mükemmellik: Rocker Vlogger",
+        "slogan": "Sosyal medya yıldızlarının umursamaz salaşlığı ve vintage rock kültürünün kışkırtıcı uyumsuzluğu.",
+        "description": "İçerik üreticilerinin (Influencer) yataktan yeni kalkmış gibi görünen ama kusursuz bir estetiğe sahip olan Çabasız Mükemmellik (Nonchalant) tavrını, asi Rocker ve Grunge stiliyle birleştiren gerçek bir sokak modası şovu. Modelin üzerindeki yıpranmış, oversize U yaka ve fakir kol (3/4 sleeve) vintage Rock Tişörtü, beline asimetrik bir etek gibi umursamazca doladığı Peştemal (Sarong) ile tamamlanıyor. Tek omzundan dökülen devasa Suni Kürk ve ağır siyah Postallar (Combat Boots), bu umursamaz zıtlığı zirveye taşıyor. Bir elinde retro bir Bowling Çantası, diğer elinde vlog kamerası olan model; yüzündeki asi piercingler, kulağını kaplayan metal kıkırdak küpeleri (Ear Cuff), kalın manşet bilekliği ve bileğine taktığı ucuz telefon kablosu saç lastiği (spiral hair tie) ile yüksek modayı sokağa taşıyor.",
+        "occasion": "İçerik Üretimi / Vlog Çekimi",
+        "bodyType": "Umursamaz (Nonchalant) & Asi Aura",
+        "pairsWith": [
+            "Asimetrik Peştemal Etek",
+            "Yıpranmış Fakir Kol Tişört",
+            "Telefon Kablosu Saç Lastiği"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-rocker-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-rocker-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-rocker-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-rocker-close.jpeg"
+            ]
+        }
     }
 ]
