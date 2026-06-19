@@ -815,5 +815,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-rocker-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "smart-casual-voynich",
+        "publishDate": "2026-06-19",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Yürüyen Gizem: Voynich Günlüğü",
+        "slogan": "Günlük şıklığın, yüzyıllık çözülememiş sırlarla entelektüel buluşması.",
+        "description": "Günlük Giyim (Smart Casual) gibi her zaman sıradan kabul edilen bir konsepti alıp, dünyanın en büyük gizemlerinden biri olan 15. yüzyıl Voynich El Yazması ile birleştiren entelektüel bir yüksek moda zekası. Modelin üzerindeki zarif Robadan (Empire Waist) Elbise, Voynichin o çözülememiş tuhaf bitki illüstrasyonları ve gizemli uzaylı metinleriyle tamamen kaplanmış. Bu yoğun ve gizemli deseni dengelemek için üzerine eski bir parşömeni (vellum) andıran toprak tonlarında rahat bir Gömlek Ceket (Shacket) almış. Boynuna doladığı Atkıda Voynich astrolojik haritaları yer alıyor. Günlük kullanıma uygun Babetleri, Portföy (Clutch) çantası, Scrunchie (Kumaş Toka) ile topladığı saçı ve yakasındaki vintage Broş tam bir Smart Casual zarafeti sunuyor. Yüzündeki keskin Kedi Gözü Güneş Gözlükleri ise bu eski çağ temasına inanılmaz modern ve zeki bir kontrast katıyor.",
+        "occasion": "Günlük Giyim (Smart Casual)",
+        "bodyType": "Entelektüel & Gizemli Aura",
+        "pairsWith": [
+            "Voynich Desenli Elbise",
+            "Parşömen Dokulu Gömlek Ceket",
+            "Astrolojik Harita Atkı"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-voynich-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-voynich-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-voynich-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-casual-voynich-close.jpeg"
+            ]
+        }
     }
 ]
