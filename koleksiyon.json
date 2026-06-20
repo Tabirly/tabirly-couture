@@ -865,5 +865,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-beatnik-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "cottagecore-matrix-dance",
+        "publishDate": "2026-06-20",
+        "gender": "Kadın",
+        "category": "Spor Giyim",
+        "title": "Dijital Kır Çiçekleri: Glitchcore Dansı",
+        "slogan": "Kırsal romantizmin neon ışıklı bir siber uzay stüdyosunda bozulmaya (glitch) uğraması.",
+        "description": "Romantik ve kırsal Cottagecore estetiğini, agresif ve neon ışıklı Siber Uzay / Matrix (Glitchcore) temasıyla darmadağın eden inanılmaz bir Dans Dersi (Dance Class) tasarımı. Geleneksel bir üst giyim yerine, neon yeşili Göğüs Bandı (Boob Tape) ve narin çiçekli dantel aplikasyonlar avangart bir şekilde vücuda sarılmış. Modelin altındaki Toparlayıcı Şort, sanki dijital bir hata veriyormuş gibi (glitching) bozulan çiçek desenlerine sahip. Belindeki geleneksel Dansöz Kemeri, altın paralar yerine sallanan metalik siber çipler ve parlayan anakart parçalarıyla tamamen güncellenmiş. Bacaklarındaki romantik dantelli Dizüstü Çoraplardan (Thigh-high) Matrix tarzı dijital yağmurlar akıyor. Saçını topladığı klasik Kumaş Lastik (Scrunchie) ve bileğindeki parlayan fiber optik Örme Bileklik zıtlığı vurgularken; yere bıraktığı goblen dokulu Spor Çantası (Duffel Bag) ve neon fiber nakışlı dans ayakkabıları bu terli siberpunk masalını tamamlıyor.",
+        "occasion": "Dans Dersi / Stüdyo",
+        "bodyType": "Siber & Romantik Aura",
+        "pairsWith": [
+            "Glitch Desenli Şort",
+            "Siber Dansöz Kemeri",
+            "Neon Göğüs Bandı"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cottagecore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cottagecore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cottagecore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cottagecore-close.jpeg"
+            ]
+        }
     }
 ]
