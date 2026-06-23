@@ -940,5 +940,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bimbocore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "indie-sleaze-metaverse-camo",
+        "publishDate": "2026-06-23",
+        "gender": "Kadın",
+        "category": "Üst & Alt Takım",
+        "title": "Siber-Kaos: Taktiksel Farthingale",
+        "slogan": "Metaverse gece kulüplerinin en kuralsız ve kaotik sanal savaşçısı.",
+        "description": "Dağınık ve isyankar Indie Sleaze parti estetiğini, Askeri / Kamuflaj (Tactical) temasıyla Metaverse (Sanal Moda) dünyasının dijital sınırlarında darmadağın eden inanılmaz bir siber-kaos tasarımı. Avatarın alt kısmında yer alan 16. yüzyıl kraliçelerine ait o devasa kafes etek (Farthingale), kumaş yerine parlayan dijital tellerden (wireframe) ve askeri taktiksel kayışlardan (tactical webbing) oluşuyor! Üzerinde Indie Sleaze dönemine ait yırtık pırtık, salaş bir kamuflaj büstiyer ve dağılmış göz kalemli bir makyaj var. Başında kamuflaj desenli, etrafında dijital mermi kemerleri olan devasa, taktiksel bir Meksika Sombrerosu umursamazca yana yatmış duruyor. Ayağında ise askeri botların ağırlığını yansıtan kamuflaj desenli, Kalın Topuklu (Block Heel) ayakkabılar var. Flaş patlamasıyla çekilmiş hissi veren bu tasarım, arka planda neonların ve siber-hata (glitch) efektlerinin uçuştuğu tekinsiz bir Metaverse gece kulübünde kuralları tamamen yıkıyor.",
+        "occasion": "Metaverse / Dijital Avatar",
+        "bodyType": "Kaotik & Siber Aura",
+        "pairsWith": [
+            "Taktiksel Farthingale Kafesi",
+            "Askeri Sombrero",
+            "Kamuflaj Kalın Topuk"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-indie-sleaze-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-indie-sleaze-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-indie-sleaze-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-indie-sleaze-close.jpeg"
+            ]
+        }
     }
 ]
