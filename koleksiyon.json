@@ -890,5 +890,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-cottagecore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "weirdcore-recovery-melancholy",
+        "publishDate": "2026-06-23",
+        "gender": "Kadın",
+        "category": "Üst & Alt Takım",
+        "title": "Karanlık İyileşme: Weirdcore Melankolisi",
+        "slogan": "Acı ve iyileşmenin yüksek modadaki en tekinsiz ve trajik yansıması.",
+        "description": "Tuhaf ve rahatsız edici Weirdcore internet estetiğini, ameliyat sonrası iyileşme (Post-Surgery Recovery) sürecinin trajik ve melankolik (Dark Romance) atmosferiyle birleştiren sarsıcı bir yüksek moda tasarımı. Modelin üzerindeki Eşofman Takımı, gotik siyah kadife ve medikal sargı bezinin tuhaf bir karışımından özel olarak dikilmiş. Takımın üst kısmı, altındaki romantik medikal sargıları gösterecek kadar kısa (cropped) kesilmişken, alt kısmı yürüdükçe arkasından sürüklenecek kadar abartılı ve oversize. Ayağında aşırı pofuduk ama rüyalardan fırlamış gibi duran tuhaf Ev Terlikleri var. Saçını basit bir Saç Tokası ile yorgun ve trajik bir güzellikle tutturmuş. Bileğindeki hafifçe eriyormuş hissi veren sürreal devasa Saat ise, iyileşme sürecindeki o bitmek bilmeyen ve tekinsiz zaman algısını vurguluyor.",
+        "occasion": "Ameliyat Sonrası / İyileşme",
+        "bodyType": "Tekinsiz & Melankolik Aura",
+        "pairsWith": [
+            "Kısa ve Oversize Kadife Eşofman",
+            "Sürreal Saat",
+            "Trajik Saç Tokası"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-weirdcore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-weirdcore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-weirdcore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-weirdcore-close.jpeg"
+            ]
+        }
     }
 ]
