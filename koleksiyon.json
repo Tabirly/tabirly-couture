@@ -915,5 +915,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-weirdcore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "bimbocore-maternity-euphoria",
+        "publishDate": "2026-06-23",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Neşeli Işıltı: Bimbocore Hamileliği",
+        "slogan": "Hamileliğin en eğlenceli, ışıltılı ve pembe kuralsızlığı.",
+        "description": "Hamilelik (Maternity) giyimini o klasik formlarından çıkarıp, 2000lerin başındaki aşırı pembe, hiper-feminen ve ışıltılı Bimbocore estetiğiyle patlatan, son derece neşeli (Euphoric) bir avangart tasarım. Model, hamile göbeğini tamamen parlak, sıcak pembe ve yapay elmaslarla (rhinestone) kaplı bir Anvelop Elbise (Wrap Dress) ile sararak gururla sergiliyor. Üzerinde klasik resmiyeti tamamen yıkan dokulu ve aşırı parlak bir Kruvaze Kısa Kaban (Pea Coat) var. Ayağında ışıltılı Arkası Açık (Slingback) topuklular, elinde sevimli ve oyuncak gibi bir Kutu Çanta (Box Bag) bulunuyor. Bimbocore estetiğini zirveye taşıyan aksesuarları ise göz kamaştırıyor: Boynunda devasa elmas bir Prenses Boy kolye, kulaklarında Y2K tarzı kalın Halka (Hoop) küpeler, asi pembe bir Deri Bileklik ve başında devasa parlak pembe bir fiyonk formunda Fascinator. Yüzündeki pembe camlı Pilot (Aviator) güneş gözlükleriyle, hiper-pop bir rüya aleminde hamileliğin en iddialı ve eğlenceli halini podyuma taşıyor.",
+        "occasion": "Hamilelik (Maternity)",
+        "bodyType": "Neşeli (Euphoric) & Işıltılı Aura",
+        "pairsWith": [
+            "Pembe Elmas Anvelop Elbise",
+            "Devasa Fiyonk Fascinator",
+            "Kruvaze Kısa Kaban"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bimbocore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bimbocore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bimbocore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-bimbocore-close.jpeg"
+            ]
+        }
     }
 ]
