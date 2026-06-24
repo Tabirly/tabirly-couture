@@ -965,5 +965,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-indie-sleaze-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "royalcore-atompunk-camping",
+        "publishDate": "2026-06-24",
+        "gender": "Kadın",
+        "category": "Dış Giyim",
+        "title": "İmparatorluk Keşfi: Atompunk Parka",
+        "slogan": "Ormanın derinliklerinde asil bir 1950ler uzay çağı dokunuşu.",
+        "description": "Tamamen gerçekçi, giyilebilir ve ultra lüks bir yüksek moda (High Fashion) harikası. Royalcore estetiğinin asil kalıplarını, Retro-Fütürizmin (Atompunk) 1950ler uzay çağı geometrisiyle harmanlayıp Kamp ve Doğa ekipmanlarına uyarlayan muazzam bir tasarım. Modelin üzerindeki kamp parkası klasik bir kumaş yerine yapısal metalik gümüşten üretilmiş olup, omuzlarda devasa kraliçe (gigot) kollara ve belde sımsıkı bir korse formuna sahip. Ayağında bembeyaz deriden, ağır gümüş donanımlı kusursuz kamp botları var. Sırtındaki kamp çantası aerodinamik, sert kapaklı (hard-shell) gümüş rengi şık bir tasarım; üstelik klasik omuz askıları yerine zengin inci zincirlerle taşınıyor. Başında ise kafa lambası yerine, kalın tırmanış iplerinden ve gümüş karabinalardan örülerek şekillendirilmiş avant-garde bir kraliyet tacı (Tiara) bulunuyor. Fantastik ögelerden tamamen arındırılmış, kasvetli ve sisli bir orman arka planında çekilmiş bu dramatik Vogue editoryal karesi, doğada hayatta kalmayı asil bir haute-couture şovuna dönüştürüyor.",
+        "occasion": "Kamp ve Doğa",
+        "bodyType": "Asil (Regal) & Fütüristik Aura",
+        "pairsWith": [
+            "Gümüş Kraliçe Parka",
+            "Karabina Taç",
+            "İnci Askılı Kamp Çantası"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-royalcore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-royalcore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-royalcore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-royalcore-close.jpeg"
+            ]
+        }
     }
 ]
