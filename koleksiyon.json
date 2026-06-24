@@ -990,5 +990,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-royalcore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "business-casual-wild-western",
+        "publishDate": "2026-06-24",
+        "gender": "Kadın",
+        "category": "Takım ve Tulum",
+        "title": "Yönetim Kurulunda Vahşi Batı",
+        "slogan": "Lüks bir iş yemeğinde çöl rüzgarları estiren modern bir güç gösterisi.",
+        "description": "Klasik Business Casual (İş Kostümü) estetiğini, Vahşi Batı (Wild Western) temasının asi ve bağımsız ruhuyla buluşturan, son derece güçlü ve ulaşılmaz bir yüksek moda tasarımı. Model, lüks çöl rengi süetten dikilmiş kusursuz, modern bir Yakasız Takım (Collarless Suit) giyiyor. Bu takımın omuzlarında ince Vahşi Batı dikiş detayları (western yoke) ve çok zarif deri detaylar yer alıyor. Ayaklarında, klasik kovboy botlarının o ikonik silüetini feminen bir güce çeviren modern deri Platform Topuklu Ayakkabılar bulunuyor. Başındaki sert taç (Alice Band) saçlarını kusursuzca geriye sabitlerken, taktığı ikonik siyah Wayfarer güneş gözlükleri ona soğuk, kendinden emin bir aura katıyor. Bu güç gösterisini tamamlayan aksesuarlar ise tam anlamıyla lüks bağırıyor: Bileğinde paha biçilmez, değerli taşlarla bezenmiş göz kamaştırıcı bir saat ve parmaklarında narin altın Eklem Yüzükleri (Midi Rings) var. Doğal gün ışığıyla yıkanan, koyu renk ahşap ve deri dekorlu, oldukça prestijli bir restoranda çekilmiş bu editoryal kare, profesyonelliğin en vahşi ve iddialı halini yansıtıyor.",
+        "occasion": "İş Yemeği (Business Lunch / Dinner)",
+        "bodyType": "Güçlü (Powerful) & Ulaşılmaz Aura",
+        "pairsWith": [
+            "Çöl Rengi Yakasız Takım",
+            "Değerli Taşlı Saat",
+            "Wayfarer Gözlük"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-business-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-business-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-business-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-business-close.jpeg"
+            ]
+        }
     }
 ]
