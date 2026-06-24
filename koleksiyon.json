@@ -1015,5 +1015,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-business-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "night-luxe-modest-holy-grail",
+        "publishDate": "2026-06-24",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Karanlık Zarafet: Kutsal Şövalye",
+        "slogan": "Karanlık lüksün ve mutlak kapanmanın getirdiği ulaşılmaz gizem.",
+        "description": "Tamamen kapalı, hiçbir ten göstermeyen (Modest Fashion/Tesettür) şıklığın, Night Luxe estetiğinin o karanlık, zengin ve ipeksi ihtişamıyla çarpıştığı nefes kesici bir yüksek moda (High Fashion) harikası. Model, koyu şarap kırmızısı (burgundy) ve gece mavisinin asil uyumuyla tasarlanmış, Orta Çağ keşişlerini ve soylularını andıran, yerlere kadar uzanan devasa bir ipek pelerin-elbise (cape-dress) giyiyor. Boynu ve omuzları kusursuzca kapatan dikişsiz ipek başörtüsü (hijab), elbisenin yüksek yakasına mükemmel bir şekilde karışıyor. Orta Çağ Şövalyesi (Medieval Knight) teması, abartılı zırhlar yerine elbisenin heykelsi ve keskin omuz kalıbında ve beli sımsıkı saran zarif, metalik gümüş bir kılıç kemerinde (sword belt) vücut buluyor. Modelin elleri uzun, siyah deri gece eldivenleriyle tamamen gizlenmiş; sadece ağır ipek eteğin altından zarif, sivri uçlu hafif topuklu ayakkabılarının (kitten heels) ucu görünüyor. Yüzündeki ikonik karanlık güneş gözlükleri, sadece mum ışıklarıyla aydınlatılmış bu Gotik katedralin içinde ona inanılmaz asil, kutsal ve ulaşılmaz bir aura katıyor. Kapanmanın getirdiği gücü, lüksün en karanlık ve gizemli haliyle podyuma taşıyan tam bir şaheser.",
+        "occasion": "Din / İbadet",
+        "bodyType": "Kutsal (Holy) & Karanlık Romantik Aura",
+        "pairsWith": [
+            "Şarap Kırmızısı İpek Pelerin-Elbise",
+            "Siyah Deri Eldiven",
+            "Gizemli Siyah Gözlük"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-night-luxe-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-night-luxe-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-night-luxe-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-night-luxe-close.jpeg"
+            ]
+        }
     }
 ]
