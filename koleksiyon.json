@@ -1090,5 +1090,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-decora-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "old-money-botanical-roadtrip",
+        "publishDate": "2026-06-25",
+        "gender": "Kadın",
+        "category": "Takım ve Tulum",
+        "title": "Sessiz Lüksün Asi Yolu",
+        "slogan": "Eski paranın o çabasız şıklığı ve bir yolculuğun özgür ruhu.",
+        "description": "Quiet Luxury (Sessiz Lüks / Old Money) estetiğinin logo içermeyen, ultra kaliteli kumaşlara dayalı o asil duruşunu, özgür bir Yol Turu (Road Trip) ruhuyla harmanlayan büyüleyici bir tasarım. Model, normalde son derece işlevsel ve kaba olan bir İşçi Tulumu (Boilersuit) giyiyor; ancak bu tulum, zengin bir orman yeşili tonunda ultra lüks ipek-kaşmir karışımından kusursuzca dikilmiş ve kumaşın dokusuna ışıkta parlayan zarif Botanik/Çiçeksi (jacquard) desenler gizlenmiş. Omuzlarına, uçlarında bahçe motifleri işlenmiş devasa ve yumuşacık bir kaşmir Şal (Shawl) sarmış. Başında, yolculuk rahatlığını hissettiren ama kalitesiyle göz dolduran kaşmir bir Bere (Beanie) var. Ayağında Old Money stilinin vazgeçilmezi kusursuz deri Penny Loafer ayakkabılar, elinde ise lüks deri bir Yarım Ay (Hobo/Crescent) Çanta bulunuyor. Tasarımın asil asiliği ise aksesuarlarda patlıyor: Burnunda zarif ince altın bir Septum piercing, boynunda klasik inci bir Matine Boy Kolye ve parmağında devasa, gösterişli bir Kokteyl Yüzüğü var. Sarmaşıklarla çevrili vahşi bir kır yolunda, klasik bir vintage arabanın yanında çekilmiş bu kusursuz editoryal kare, zenginliğin en umursamaz ve özgür halini podyuma taşıyor.",
+        "occasion": "Yol Turu / Arabayla Seyahat",
+        "bodyType": "Asil (Noble) & Özgür Aura",
+        "pairsWith": [
+            "İpek-Kaşmir İşçi Tulumu",
+            "İşlemeli Kaşmir Şal",
+            "Penny Loafer"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-old-money-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-old-money-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-old-money-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-old-money-close.jpeg"
+            ]
+        }
     }
 ]
