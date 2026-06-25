@@ -1065,5 +1065,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clowncore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "decora-typographical-stage",
+        "publishDate": "2026-06-25",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Sahnede Logomania: Decora İkonu",
+        "slogan": "Kör edici ışıkların altında, sınırları ve algıları zorlayan görsel bir pop kaosu.",
+        "description": "Japon Decora sokak modasının o rengarenk, aksesuar dolu çılgınlığını alıp, devasa bir Logomania / Tipografik temasıyla sahne (Stage Performance) şovuna dönüştüren inanılmaz bir avangart pop-star tasarımı. Model, vücudu sıkıca saran ama eteklerinde devasa tüllerle patlayan bir Denizkızı (Mermaid) elbise giyiyor; ancak bu elbise baştan aşağı kaotik, neon parlaklığında sloganlar, devasa kalın harfler ve logolarla kaplı. Ayağında üzerinde grafiti tarzı neon yazılar bulunan devasa Mantar Topuk (Wedge) ayakkabılar var. Ellerindeki zarif Tül Eldivenlerin üzeri, Decora tarzının ruhuna uygun olarak yüzlerce kalın, plastik neon bileklikle istiflenmiş. İşin en çarpıcı kısmı ise başındaki görsel şölen: Klasik tokaların yerini, üst üste takılmış ve üzerinden 3D neon harfler fırlayan Taçlar (Diadems/Tiaras) almış. Yüzünde, üst çerçevesi kelimenin tam anlamıyla parlayan kristal bir taca dönüşen devasa ve inanılmaz şık Taç-Gözlükler (Tiara-Sunglasses) takıyor. Arkasında durmadan akan tipografik LED yazılar, neon lazerler ve sahne dumanlarıyla kaplı bu editoryal kare, pop kültürünün en gürültülü ve en renkli halini podyuma taşıyor.",
+        "occasion": "Sahne / Performans",
+        "bodyType": "Enerjik (Energetic) & Kaotik Aura",
+        "pairsWith": [
+            "Logomania Denizkızı Elbise",
+            "Taç-Gözlük",
+            "Neon Tül Eldiven"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-decora-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-decora-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-decora-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-decora-close.jpeg"
+            ]
+        }
     }
 ]
