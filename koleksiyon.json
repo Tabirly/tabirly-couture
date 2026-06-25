@@ -1040,5 +1040,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-night-luxe-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "clowncore-winter-madmax",
+        "publishDate": "2026-06-25",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Buzda Sirk: Kıyamet Palyaçosu",
+        "slogan": "Kıyamet kopsa da yüksek topuklardan ve neonlardan vazgeçmeyen bir hayatta kalma manifestosu.",
+        "description": "Clowncore estetiğinin o parlak, abartılı ve sirk esintili kaosunu, Kıyamet Sonrası (Post-Apocalyptic / Mad Max) bir kış cehennemine hapseden nefes kesici bir avangart hayatta kalma tasarımı. Model, derin karların içinde, parlak puantiyeler ve neon çizgilerle kaplı, kapitone (termal) bir Boru Kesim (Shift) Elbise giyiyor. Bu kalın termal elbisenin üzerine, dondurucu soğuktan ve kıyametten korunmak için gerçek bir Orta Çağ Şövalye Zırhı (Armor) eklenmiş; ancak bu zırh paslı ve üzerine neon renklerle anarşik Clowncore desenleri spreylenmiş. Yüksek modadan asla taviz vermeyen bu savaşçı, bembeyaz karın üzerinde kıyamet için tamamen mantıksız ama efsanevi görünen, ikonik kırmızı tabanlı aşırı yüksek ince topuklularla (stilettos) doğaya meydan okuyor. Gözlerinde kar körlüğüne karşı siberpunk kaynak gözlüklerini andıran vintage Yuvarlak (Teashades) gözlükler, bileğinde ise karmaşık mekanizması açıkta olan bir İskelet (Skeleton) Saat var. Yüzündeki yüksek moda palyaço makyajı, kıyamet sonrası dünyanın donuk ayazıyla kusursuzca karışmış. Bembeyaz, donmuş bir kar fırtınasının ortasında, karların altına gömülmüş harabeler arasında çekilen bu Vogue editoryal karesi, kuralları yıkan gerçek bir görsel şölen.",
+        "occasion": "Kar / Aşırı Soğuk",
+        "bodyType": "Anarşik (Chaotic) & Avangart Aura",
+        "pairsWith": [
+            "Neon Puantiyeli Termal Elbise",
+            "Spreyli Şövalye Zırhı",
+            "Kırmızı Tabanlı Stiletto"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clowncore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clowncore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clowncore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-clowncore-close.jpeg"
+            ]
+        }
     }
 ]
