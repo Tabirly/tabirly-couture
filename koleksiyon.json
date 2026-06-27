@@ -1140,5 +1140,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-wabi-sabi-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "dark-academia-monochromatic-campus",
+        "publishDate": "2026-06-27",
+        "gender": "Kadın",
+        "category": "Takım ve Tulum",
+        "title": "Entelektüel Karanlık: Monokrom Kampüs",
+        "slogan": "Kütüphanelerden podyuma taşınan, tek rengin kusursuz akademik gücü.",
+        "description": "Dark Academia estetiğinin karanlık, entelektüel ve gotik havasını, tamamen Monokrom (Tek Renk) bir temayla okul ve kampüs stiline taşıyan olağanüstü bir avangart tasarım. Kusursuz bir katmanlama tekniğiyle hazırlanan bu kombinin her bir parçası, birbiriyle tamamen aynı ton olan derin ve zengin bir espresso kahvesi renginde. Model, en içte hafif açık bir Küba Yaka (Cuban Collar) Gömlek, onun üzerinde yapısal ve kalın bir Triko Ceket giyiyor. En dışta ise yürürken rüzgarda dalgalanan, yerlere kadar uzanan dramatik bir Duster Jacket (Uzun Salaş Ceket) yer alıyor. Altında bu uzun ceketin dramatik havasını dengeleyen, kusursuz kalıplı bir Skort (Şort-Etek) var. Ayağında, kalın koyu renk akademik çoraplarla giydiği kusursuz deri Tassel (Püsküllü) Loafer ayakkabılar bulunuyor. Elinde yumuşacık deriden vintage bir Kese Çanta (Pouch) tutuyor. Saçları klasik Tel Tokalarla (Bobby Pins) sıkıca sabitlenmiş, yüzündeki kalın çerçeveli Oversize Gözlükler ise ona soğuk ve inanılmaz zeki bir hava katıyor. Sisli ve kasvetli bir sonbahar sabahında, sarmaşıklarla kaplı eski bir gotik üniversite kampüsünde çekilen bu editoryal kare, entelektüel gücün modadaki karşılığı.",
+        "occasion": "Okul / Kampüs",
+        "bodyType": "Entelektüel (Intellectual) & Gotik Aura",
+        "pairsWith": [
+            "Espresso Duster Ceket",
+            "Tassel Loafer",
+            "Oversize Gözlük"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dark-academia-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dark-academia-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dark-academia-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dark-academia-close.jpeg"
+            ]
+        }
     }
 ]
