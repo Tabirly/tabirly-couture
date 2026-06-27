@@ -1190,5 +1190,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-chola-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "fairycore-op-art-stormproof",
+        "publishDate": "2026-06-27",
+        "gender": "Kadın",
+        "category": "Elbiseler",
+        "title": "Şeffaf Fırtına: Hipnotik Şehir Perisi",
+        "slogan": "Fırtınalı beton sokaklarda, algıyı büken gerçeküstü bir sokak stili.",
+        "description": "Fairycore akımının o uçuş uçuş (ethereal) hafifliğini alıp, Göz Yanılsaması ve Fraktallar (Op-Art) temasıyla algı büken, fırtınaya dayanıklı (Stormproof) bir sokak stiline dönüştüren avangart bir şaheser. Model, tek parça dikişsiz inen bir Prenses Kesim (Princess Line) elbise giyiyor; ancak bu elbise yarı saydam, su geçirmez yüksek teknolojili bir materyalden üretilmiş ve üzeri yağmurda hareket ediyormuş gibi görünen siyah-beyaz hipnotik fraktal desenlerle kaplı. Elbisenin üzerinde tamamen şeffaf PVCden yapılmış bir Püsküllü Ceket (Fringe Jacket) var; rüzgarda uçuşan uzun şeffaf püsküller adeta modern peri kanatlarını andırıyor. Bu kırılgan üst görünüme inat, modelin ayağında ıslak asfaltı ve su birikintilerini korkusuzca ezen devasa İşçi Botları (Work Boots) bulunuyor. Başını fırtınadan koruyan Panama Şapka ise, su tutmayan parlak ve şeffaf bir reçineyle kaplanarak avangart bir dokunuş kazanmış. Sağanak yağmur altında, modern bir metropol sokağının gri betonları arasında çekilen bu editoryal kare, fantastik ögeleri tamamen gerçekçi ve lüks bir yüksek modaya dönüştürüyor.",
+        "occasion": "Yağmurlu Gün / Fırtına",
+        "bodyType": "Hipnotik (Hypnotic) & Şeffaf Aura",
+        "pairsWith": [
+            "Op-Art Prenses Kesim Elbise",
+            "Şeffaf PVC Püsküllü Ceket",
+            "Reçineli Panama Şapka"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-fairycore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-fairycore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-fairycore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-fairycore-close.jpeg"
+            ]
+        }
     }
 ]
