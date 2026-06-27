@@ -1165,5 +1165,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dark-academia-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "chola-psychedelic-press-junket",
+        "publishDate": "2026-06-27",
+        "gender": "Kadın",
+        "category": "Takım ve Tulum",
+        "title": "Saykodelik Sokak İsyanı: Basın Toplantısı",
+        "slogan": "Kameraların önünde, altın takılar ve eriyen neon renklerle sergilenen sert bir Chola duruşu.",
+        "description": "Chola / Chicano kültürünün o sert, kendinden emin ve ağır takılarla bütünleşmiş sokak tarzını, inanılmaz derecede renkli ve halüsinatif bir Saykodelik (Psychedelic) temayla harmanlayan ve bunu son derece ciddi bir Basın Toplantısı (Press Junket) konseptine oturtan olağanüstü bir avangart tasarım. Model, basın masasında otururken üzerinde normalde çok profesyonel bir imaj çizen bir Peplum Üst ve Lale (Tulip) Etek takımı taşıyor; ancak bu kumaşlar asit triplerini andıran eriyen, girdaplı ve neon saykodelik desenlerle baştan aşağı kaplı. Chola sokak kültürünün asi havasını vermek için omuzlarından aşağı salaş bir şekilde dökülen büyük beden, içi peluşlu bir Sherpa Ceket giyiyor. Ayağında klasik ama asi duran kalın tabanlı deri Horsebit ayakkabılar var. Masanın üzerinde şık bir Zarf Çanta (Envelope) duruyor. Tasarımın asıl ruhu detaylarda: Dudaklarında Chola tarzının imza makyajı olan kapkoyu dudak kalemi ve açık renk parlatıcı, gözlerinde neon farlar ve keskin bir eyeliner var. Kulağında devasa altın halka küpeler, bileğinde kalın altın bir Saat parlıyor. Önünde vintage mikrofonların yığılı olduğu bir masada, arkasında markalar yerine eriyen saykodelik desenlerin yer aldığı bir basın duvarıyla (backdrop) çekilen bu editoryal kare, isyanın ve rengin kusursuz bir şovu.",
+        "occasion": "Basın Toplantısı / Röportaj",
+        "bodyType": "Sert (Fierce) & Saykodelik Aura",
+        "pairsWith": [
+            "Neon Peplum Takım",
+            "Sherpa Ceket",
+            "Altın Saat ve Halkalar"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-chola-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-chola-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-chola-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-chola-close.jpeg"
+            ]
+        }
     }
 ]
