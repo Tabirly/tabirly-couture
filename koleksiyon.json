@@ -1115,5 +1115,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-old-money-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "wabi-sabi-graffiti-staycation",
+        "publishDate": "2026-06-27",
+        "gender": "Kadın",
+        "category": "Takım ve Tulum",
+        "title": "Kusurlu Güzelliğin Sokak İsyanı",
+        "slogan": "Eskimiş ve kusurlu olanın ne kadar yüksek moda olabileceğini gösteren avangart bir ruh.",
+        "description": "Kusurların, asimetrinin ve ham dokuların Japon felsefesi Wabi-Sabinin o dingin estetiğini, Grafiti / Sokak Sanatı (Street Art) dünyasının kaotik ve isyankar enerjisiyle çarpıştıran muazzam bir Evde Tatil (Staycation) tasarımı. Model, kenarları yıpranmış pamuklu bol bir Oxford Gömlek üzerine, asimetrik kesimli ve dokusu bilerek eskitilmiş bir Takım Elbise Yeleği (Waistcoat) giyiyor. En dışta ise ham ketenden yapılmış, asimetrik etek uçlarına sahip klasik bir Norfolk Ceket (Av Ceketi) bulunuyor; ancak bu ham kumaşa, sanki doğrudan spreylenmiş gibi soluk ve sanatsal grafiti izleri karışmış. Altında, paçaları yere değmekten yıpranmış ve sökülmüş ham kumaştan İspanyol Paça (Flared) pantolon var. Ayağında Wabi-Sabi ruhuna uygun şekilde boya damlamış, iyice eskitilmiş klasik kanvas Plimsoll ayakkabılar bulunuyor. Aksesuarlar bu asi entelektüel havayı zirveye taşıyor: Kenarları hafif yıpranmış asimetrik bir Fötr Şapka (Fedora), inanılmaz minimalist Çerçevesiz Gözlükler ve burnunda zarif gümüş bir Hızma (Nostril Piercing) var. Güneşin vurduğu, sessiz ama duvarları inanılmaz canlı sokak sanatıyla (Grafiti) kaplı bir arka sokakta çekilmiş bu editoryal kare, şehrinde rahatlarken stilden asla taviz vermeyenlere kusursuz bir ilham veriyor.",
+        "occasion": "Evde / Kendi Şehrinde Tatil (Staycation)",
+        "bodyType": "Kusurlu (Imperfect) & Asi Aura",
+        "pairsWith": [
+            "Eskitilmiş Yelek Takımı",
+            "Grafiti Norfolk Ceket",
+            "Boya Damlamış Plimsoll"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-wabi-sabi-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-wabi-sabi-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-wabi-sabi-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-wabi-sabi-close.jpeg"
+            ]
+        }
     }
 ]
