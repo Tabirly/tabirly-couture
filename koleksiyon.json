@@ -1215,5 +1215,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-fairycore-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "deconstructionist-halloween-hanbok",
+        "publishDate": "2026-06-28",
+        "gender": "Kadın",
+        "category": "Tarihi ve Yöresel Giysiler",
+        "title": "Parçalanmış Gelenek: Dışavurumcu Hanbok",
+        "slogan": "Geleneksel zarafetin, kan kırmızısı bir yüksek moda kabusuna dönüşümü.",
+        "description": "Margiela ekolünün Deconstructionist (Yıkım / Parçalanmış) felsefesini, inanılmaz derecede geleneksel ve zarif bir Kore Hanboku üzerinde acımasızca uygulayan, Cadılar Bayramı (Halloween) temalı olağanüstü bir avangart tasarım. Model, tamamen tersyüz edilmiş, dikişleri ve iç astarı dışarı fırlamış bir Jeogori (kısa ceket) giyiyor. Devasa kabarık Hanbok eteği (Chima) ise asimetrik olarak parçalanmış ve yırtık katmanlar halinde dökülüyor. Bu parçalanmış saf beyaz ipek, adeta boş bir tuval gibi kullanılmış; üzerinde Soyut Dışavurumcu (Abstract Expressionist), Jackson Pollock tarzı şiddetli boya sıçramaları (kan kırmızısı ve kapkoyu mürekkep siyahı) var. Ayağında, yıkım ustalarına selam çakan, deri kaplı brütalist Tabi Botları (ayrık burunlu botlar) bulunuyor. Başında geleneksel siyah at kılı Kore şapkası olan Gat var, ancak şapka ortadan ikiye kırılmış ve asimetrik olarak parçalanmış durumda. Yüzündeki soyut dışavurumcu makyaj, onu parçalanmış kanlı bir porselen bebeğe dönüştürüyor. Loş ışıklı, brütalist (beton) bir sanat galerisinde düzenlenen son derece abartılı bir yüksek moda Cadılar Bayramı partisinde çekilen bu editoryal kare, korku ve modern sanatın mükemmel çarpışması.",
+        "occasion": "Temalı Parti / Cadılar Bayramı",
+        "bodyType": "Parçalanmış (Shattered) & Sanatsal Aura",
+        "pairsWith": [
+            "Tersyüz Hanbok",
+            "Kırık Gat Şapkası",
+            "Brütalist Tabi Bot"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deconstructionist-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deconstructionist-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deconstructionist-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deconstructionist-close.jpeg"
+            ]
+        }
     }
 ]
