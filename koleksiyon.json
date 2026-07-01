@@ -1240,5 +1240,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deconstructionist-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "80s-glam-moon-phases-gym",
+        "publishDate": "2026-07-01",
+        "gender": "Kadın",
+        "category": "Spor Giyim",
+        "title": "Neon Dolunay: 80ler Aerobik İkonu",
+        "slogan": "Gecenin karanlığında parlayan neon bir ay tanrıçasının fitness rutini.",
+        "description": "80s Glam / Neon tarzının o meşhur enerjik, yüksek kesimli ve parlak aerobik dönemini alıp, karanlık ve mistik bir Ay Fazları (Moon Phases) temasıyla harmanlayan inanılmaz bir avangart fitness tasarımı. Model, üzerinde neon gümüş renginde parlayan Ay Fazları (hilalden dolunaya) baskısı bulunan, aşırı parlak, metalik gece mavisi, yüksek kesim bir Jimnastik Mayosu (Leotard) giyiyor. Mayonun üzerine, tek omzu düşük elektrik pembesi (neon) kısacık bir Cropped Sweatshirt atılmış. Bacaklarında simli ince külotlu çorap ve onun üzerinde 80lerin klasiği, kalın neon mor Tozluklar (Leg Warmers) var. Ayağında fosforlu bağcıklı ve gümüş ay detaylı vintage High-Top Aerobik Sneakerlar bulunuyor. 80ler abartısı aksesuarlarla zirveye taşınmış: İnanılmaz kabarık saçlar, alnında ve bileklerinde neon havlu Ter Bantları, devasa altın halka küpeler ve üst üste takılmış kalın altın zincir kolyeler. Omzundan, içinden göksel desenli bir yoga matı sarkan devasa, şeffaf neon bir Spor Çantası taşıyor. Duvarları aynalarla kaplı, siyah ışık (UV Blacklight) ve neon florasanlarla aydınlatılmış retro-fütüristik bir aerobik salonunda çekilen bu editoryal kare, spor salonunu kelimenin tam anlamıyla bir disko podyumuna çeviriyor.",
+        "occasion": "Spor Salonu / Fitness",
+        "bodyType": "Enerjik (Energetic) & Göksel Aura",
+        "pairsWith": [
+            "Metalik Ay Mayosu",
+            "Neon Tozluk",
+            "80ler High-Top Sneaker"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-80s-glam-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-80s-glam-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-80s-glam-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-80s-glam-close.jpeg"
+            ]
+        }
     }
 ]
