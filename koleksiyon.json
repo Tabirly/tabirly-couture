@@ -1265,5 +1265,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-80s-glam-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "shironuri-glacial-drag",
+        "publishDate": "2026-07-01",
+        "gender": "Unisex",
+        "category": "Elbiseler",
+        "title": "Buz Kraliçesi: Shironuri Drag Şovu",
+        "slogan": "Bembeyaz bir porselen yüz, dondurucu bir ihtişam ve sahneyi titreten abartılı kalıplar.",
+        "description": "Bembeyaz boyalı yüzüyle bilinen Japon Shironuri altkültürünün o porselen ve hafif ürkütücü zarafetini, inanılmaz derecede tiyatral ve abartılı bir Drag Queen (Cinsiyet Oyunları / Gender Bending) silüetiyle birleştiren dondurucu bir avangart şov. Model, incecik korseli bir bel ve devasa kalçalarla tam bir gerçek Drag vücudu sergiliyor. Üzerinde kırılmış buz kütlelerini andıran, sivri ve yarı saydam kristalize materyallerden yapılmış, yerçekimine meydan okuyan devasa bir balo elbisesi var. Bu buz kütlelerinin altından, donmuş gibi duran bembeyaz antik danteller taşıyor. Omuzlarından yerlere kadar uzanan devasa bir Kutup Tilkisi (Faux-Fur) kürk etol taşıyor. Ayağında Drag kültürünün zirvesi olan, ancak tamamen şeffaf akrilikten yapılarak saf buz kalıplarına benzeyen devasa 10 inç platform topuklular var. Elinde çanta yerine, elmaslarla kaplı keskin bir Buz Sarkıtı (Icicle) şeklinde devasa bir portföy (clutch) taşıyor. Yüzündeki bembeyaz Shironuri makyajı, buz mavisi keskin yanak kontürleri ve donmuş kirpiklerle tamamlanmış. Başında oyulmuş bir buzdağını andıran devasa beyaz mimari bir peruk (Wig) var. Karanlık bir buz mağarası dekorunda, tek bir soğuk mavi spot ışığı altında çekilen bu editoryal kare, sahneyi kelimenin tam anlamıyla donduruyor.",
+        "occasion": "Drag / Cinsiyet Oyunları",
+        "bodyType": "Tiyatral (Theatrical) & Dondurucu Aura",
+        "pairsWith": [
+            "Kristalize Balo Elbisesi",
+            "Buz Sarkıtı Çanta",
+            "Akrilik Platform Bot"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-shironuri-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-shironuri-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-shironuri-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-shironuri-close.jpeg"
+            ]
+        }
     }
 ]
