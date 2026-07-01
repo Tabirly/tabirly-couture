@@ -1290,5 +1290,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-shironuri-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "roadman-jungle-cosplay",
+        "publishDate": "2026-07-01",
+        "gender": "Erkek",
+        "category": "Spor Giyim",
+        "title": "Şehir Avcısı: Jungle Roadman",
+        "slogan": "Londra sokaklarının sert havası, vahşi ormanın acımasızlığıyla birleşiyor.",
+        "description": "Birleşik Krallık (UK) sokaklarının sert, karanlık ve ikonik Roadman kültürünü alıp, tehlikeli bir Vahşi Orman (Jungle) temasıyla birleştiren ve inanılmaz derecede havalı bir Cosplay (Kongre/Convention) kostümüne dönüştüren avangart bir tasarım. Model, Roadman kültürünün imzası olan devasa bir Şişme Mont (Puffer Jacket) giyiyor; ancak bu mont hiper-gerçekçi, koyu neon renklerde Vahşi Orman Sarmaşıkları (Jungle Camo) desenine sahip ve montun boğumlarından 3D taktiksel yapraklar fışkırıyor. İçinde zümrüt yeşili, sürüngen derisi dokusunda su geçirmez, lüks bir Eşofman Takımı (Tracksuit) var. Yüzü klasik bir Kar Maskesi (Balaclava) ile tamamen gizlenmiş; ancak bu maske vahşi orman sarmaşıklarını andıran taktiksel paraşüt iplerinden örülmüş ve ona bilimkurgu filmlerindeki bir Predator havası katıyor. Göğsüne çapraz takılan klasik Çapraz Çanta (Man Bag), eskitilmiş timsah derisinden yapılmış ve taktiksel hayatta kalma ekipmanlarıyla donatılmış. Ayağında neon zehirli ok kurbağası detaylarına sahip altı çivili agresif Chunky Sneakerlar var. Eşofmanın üzerinden sarkan ağır gümüş zincirler ve beline sıkıştırılmış yüksek moda hayatta kalma palası (machete) propu ile bu görünüm tamamlanıyor. Arka planda flu şekilde diğer cosplayerların ve neon stantların göründüğü aydınlık bir Çizgi Roman Kongresi (Comic Con) salonunda çekilen bu editoryal kare, sokak stilini cosplay dünyasının zirvesine taşıyor.",
+        "occasion": "Cosplay / Çizgi Roman Kongreleri",
+        "bodyType": "Vahşi (Fierce) & Avcı Aura",
+        "pairsWith": [
+            "Jungle Şişme Mont",
+            "Taktiksel Kar Maskesi",
+            "Timsah Derisi Çapraz Çanta"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-roadman-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-roadman-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-roadman-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-roadman-close.jpeg"
+            ]
+        }
     }
 ]
