@@ -1315,5 +1315,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-roadman-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "kogal-safari-expedition",
+        "publishDate": "2026-07-07",
+        "gender": "Kadın",
+        "category": "Spor Giyim",
+        "title": "Savana Lisesi: Terletmez Kogal Safari",
+        "slogan": "Afrika sıcağında erimeyen, yüksek teknolojili ikonik bir anime/lise kızı fantezisi.",
+        "description": "90ların ikonik Japon Kogal (Lise öğrencisi) stilini alıp, onu Afrika Savanasının kavurucu sıcağına dayanıklı, Terletmeyen (Sweatproof) ve Sürtünme Önleyici (Anti-chafing) yüksek teknolojili bir safari modasına uyarlayan avangart bir tasarım. Model, porselen gibi bembeyaz teni ve uzun koyu renk saçlarıyla vahşi doğada çarpıcı bir zıtlık yaratıyor. Afrika sıcağına dayanması için, üzerinde kısacık (ultra-cropped), kolsuz ve teri dışarı atan soğutucu kumaştan bembeyaz bir okul gömleği var; boynunda ise çita desenli bir lise kravatı sallanıyor. Altında Kogal stilinin olmazsa olmazı aşırı kısa pileli okul eteği bulunuyor; safari yeşili ve taba ekoseli hafif atletik kumaştan yapılan bu eteğin altından, bacakların sürtünmesini engelleyen yüksek teknolojili kompresyon şortu görünüyor. Bacaklarında, serin tutan nem emici iplikten örülmüş ikonik devasa Bol Çoraplar (Loose Socks) ve ağır hizmet tipi leopar desenli lüks yürüyüş (hiking) botları var. Elinde taşlı retro bir kapaklı telefon, omzunda aslan ve zebra pelüş anahtarlıklarıyla donatılmış Japon lise çantası taşıyor. Boynundaki elmas işlemeli vintage dürbün ve başındaki sevimli Japon rozetleriyle kaplı geniş kenarlı safari şapkası görünümü tamamlıyor. Altın saat (golden-hour) ışığında nefes kesici bir Afrika Savanasında çekilen bu kare, hem fonksiyonel hem de şok edici derecede ikonik.",
+        "occasion": "Terletmeyen / Sürtünme Önleyici",
+        "bodyType": "Ferah (Breathable) & İkonik Aura",
+        "pairsWith": [
+            "Terletmez Kısa Lise Gömleği",
+            "Anti-Chafing Şortlu Etek",
+            "Nem Emici Bol Çorap"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-kogal-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-kogal-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-kogal-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-kogal-close.jpeg"
+            ]
+        }
     }
 ]
