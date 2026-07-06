@@ -1340,5 +1340,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-kogal-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "frutiger-aero-rainforest-apresski",
+        "publishDate": "2026-07-07",
+        "gender": "Kadın",
+        "category": "Dış Giyim",
+        "title": "Buzda Teraryum: Frutiger Aero Après-Ski",
+        "slogan": "Karların ortasında, 2000lerden fırlamış ıslak ve parlak bir yağmur ormanı simülasyonu.",
+        "description": "2000lerin ortalarındaki o parlak, ıslak ve su damlalarıyla dolu Frutiger Aero estetiğini alan ve onu dondurucu bir kış (Après-ski) ortamına tropikal bir serap olarak taşıyan avangart bir şaheser. Model, şeffaf PVCden yapılmış devasa bir Après-ski şişme montu giyiyor; montun boğumlarının içi gerçek tropikal yapraklar ve su damlacıklarıyla doldurulmuş, adeta giyilebilir bir yağmur ormanı teraryumu! İçinde camgöbeği mavisinden yeşile degrade geçiş yapan kalın, lüks bir kayak kazağı var. Bacaklarını ıslak görünümlü, parlak lateks bir kayak taytı sarıyor. Ayağında şeffaf mavi vinil ve rugandan yapılmış, içi su dolu gibi görünen devasa Ay Botları (Moon Boots) bulunuyor. Başında lüks su yeşili lensli tasarımcı kayak gözlükleri, elinde kusursuz bir küre şeklinde şeffaf akrilik bir çanta taşıyor. Arka planda bembeyaz karlar, lüks bir dağ evi ve yanan bir ateş çukuru varken; üzerindeki bu tropikal, ıslak ve parlak Frutiger Aero kombini dondurucu soğukla inanılmaz bir podyum zıtlığı yaratıyor.",
+        "occasion": "Kayak Tatili Sonrası (Après-ski)",
+        "bodyType": "Islak (Wet-look) & Tropikal Aura",
+        "pairsWith": [
+            "Teraryum Şişme Mont",
+            "Şeffaf Ay Botu",
+            "Lateks Kayak Taytı"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frutiger-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frutiger-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frutiger-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frutiger-close.jpeg"
+            ]
+        }
     }
 ]
