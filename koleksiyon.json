@@ -1365,5 +1365,30 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frutiger-close.jpeg"
             ]
         }
+    },
+    {
+        "id": "coastal-grandmother-karst-caves-cruise",
+        "publishDate": "2026-07-07",
+        "gender": "Kadın",
+        "category": "Plaj ve Yüzme",
+        "title": "Sessiz Lüksün Zirvesi: Karst Kıyıları",
+        "slogan": "Kireçtaşı kayalıklarının asaletini taşıyan, rüzgarda dalgalanan bir zenginlik.",
+        "description": "Sessiz lüksün ve rahat zenginliğin sembolü olan Coastal Grandmother (Sahil Büyükannesi) stilini alıp, onu görkemli Karst Mağaraları (Karst Caves) temasıyla birleştirerek lüks bir Kruvaziyer Tatili kıyafetine dönüştüren kusursuz bir avangart tasarım. Model, yaş aldıkça güzelleşen, son derece asil ve zengin görünümlü olgun bir kadın. Üzerinde bol kesim, önü tamamen açık uçuş uçuş bembeyaz bir keten gömlek var; gömleğin içinden mağaraların derin turkuaz sularını yansıtan son derece lüks bir tasarımcı mayosu görünüyor. Omuzlarına gelişigüzel atılmış devasa kaşmir hırka ise sıradan değil; kireçtaşı mağaralarındaki o pürüzlü kaya dokularını ve sarkan sarkıtları (stalactites) kusursuzca taklit eden inanılmaz bir dokumaya sahip. Altında deniz rüzgarında dalgalanan uçuk taş rengi bol kesim keten pantolon, ayaklarında ise minimalist ama inanılmaz pahalı deri terlikler var. Dokusu kireçtaşı kayalıklarının pürüzlü yüzeyini andıran devasa lüks hasır plaj çantasını taşıyor. İşlenmemiş devasa turkuaz taşlarından ve kaba barok incilerden oluşan kolyeler, devasa hasır şapka ve kemik çerçeveli gözlüklerle bu zenginlik şovu tamamlanıyor. Arka planda zümrüt yeşili denizden yükselen devasa kireçtaşı adalarının bulunduğu, lüks bir kruvaziyer gemisinin parlayan tik ağacından güvertesinde çekilen bu editoryal kare, umursamaz lüksün kelimenin tam anlamıyla zirvesi.",
+        "occasion": "Kruvaziyer / Gemi Tatili",
+        "bodyType": "Asil (Elegant) & Rahat Aura",
+        "pairsWith": [
+            "Taş Dokulu Kaşmir Hırka",
+            "Uçuşan Keten Gömlek",
+            "Turkuaz Lüks Mayo"
+        ],
+        "media": {
+            "hasVideo": false,
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-coastal-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-coastal-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-coastal-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-coastal-close.jpeg"
+            ]
+        }
     }
 ]
