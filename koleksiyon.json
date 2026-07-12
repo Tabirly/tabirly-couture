@@ -1,5 +1,31 @@
 [
     {
+        "id": "c_ulzzang_alice_yachting",
+        "title": "Dev Oranların Kaptanı: Makropsi Yelkenlisi",
+        "category": "Yelkenli Sürrealizm",
+        "publishDate": "2026-07-12",
+        "slogan": "Küçülen bir dünyada büyüyen silüetler; güvertede harikalar diyarı.",
+        "description": "Ulzzang tarzının o kusursuz, trend belirleyen estetiğinin, lüks bir yelkenli temasıyla ve Alice Harikalar Diyarında Sendromu'nun (Makropsi) gerçeküstü oran bozulmalarıyla çarpıcı birleşimi. Dev, dökümlü denizci kazağı ile mikro şortun yarattığı tezat, devasa inci kolyeler, ikonik Ulzzang makyajı, orantısızca kalın tabanlı platform denizci botları ve avuç içine sığan gerçekçi yelkenli formundaki minyatür lüks çanta ile bu parça, izleyicinin derinlik algısıyla oynayan ve lüks tatil anlayışına fantastik bir sürrealizm getiren avangart bir başyapıt.",
+        "occasion": "Açık Deniz Seyahati / Sürrealist Yelken Partisi",
+        "bodyType": "Oversize / Makro-Form",
+        "pairsWith": [
+            "Devasa İnci Kolyeler",
+            "Mini Gemi Çantası",
+            "Kalın Tabanlı Ulzzang Botları",
+            "Devasa Çapa Küpeler"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ulzzang-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ulzzang-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ulzzang-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ulzzang-close.jpeg"
+            ]
+        }
+    },
+    {
         "id": "item-001",
         "title": "Hamsa",
         "category": "Elbiseler",
@@ -1339,7 +1365,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-kogal-back.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-kogal-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/2026/07/savana-lisesi-terletmez-kogal-safari.html"
     },
     {
         "id": "frutiger-aero-rainforest-apresski",
@@ -1364,7 +1391,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frutiger-back.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frutiger-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/2026/07/buzda-teraryum-frutiger-aero-apres-ski.html"
     },
     {
         "id": "coastal-grandmother-karst-caves-cruise",
@@ -1389,6 +1417,7 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-coastal-back.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-coastal-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/2026/07/karst-kiyilari-coastal.html"
     }
 ]
