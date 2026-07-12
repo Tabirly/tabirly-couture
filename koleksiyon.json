@@ -246,7 +246,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-ivy-league-jumpsuit-close-shot.jpeg"
             ]
         },
-        "gender": "Kadın"
+        "gender": "Kadın",
+        "postUrl": "https://tr.tabirly.com/2026/07/ivy-league-x-terracotta-akademik-zirh.html"
     },
     {
         "id": "deep-sea-bioluminescence-lodge",
@@ -271,7 +272,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-deep-sea-close.jpeg"
             ]
         },
-        "gender": "Kadın"
+        "gender": "Kadın",
+        "postUrl": "https://tr.tabirly.com/2026/07/abisal-isilti-ezoterik-stili.html"
     },
     {
         "id": "multiverse-glitch-cyberpunk-trench",
@@ -767,7 +769,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-victorian-back.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-victorian-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/2026/07/tektonik-catlaklar-victorian-ponco.html"
     },
     {
         "id": "clean-girl-woodland-honeymoon",
