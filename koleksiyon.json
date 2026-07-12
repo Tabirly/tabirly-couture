@@ -1420,5 +1420,28 @@
             ]
         },
         "postUrl": "https://tr.tabirly.com/2026/07/karst-kiyilari-coastal.html"
+    },
+    {
+        "id": "c_y3k_clairvoyance_backpack",
+        "title": "Kahin Gezgin: Y3K Siber-Kehanet",
+        "publishDate": "2026-07-12",
+        "category": "Dış Giyim",
+        "slogan": "Dağların dijital sırrını okuyan üçüncü bir göz.",
+        "description": "Y3K fütürizminin clairvoyance (durugörü) temasıyla birleştiği bu benzersiz sırt çantalı gezgin stili, yüksek teknolojiyi karanlık bir ezoterizmle harmanlıyor. Holografik panellere sahip transparan rüzgarlık katmanları, zorlu dağ iklimlerine meydan okurken aynı zamanda gizemli bir silüet çiziyor. Gümüş ve titanyum alaşımlı devasa sırt çantası, karanlıkta parlayan üçüncü göz tılsımları ve ritüelistik detaylarla donatıldı. Bu tasarım, kamp yolculuğunu basit bir doğa yürüyüşünden çıkarıp mistik bir siber-ayine dönüştürüyor.",
+        "occasion": "Fütüristik Dağ Kampları, Tekno-Mistik Festivaller",
+        "bodyType": "Mistik, Fonksiyonel, Teknolojik",
+        "pairsWith": [
+            "Holografik Termos",
+            "Gümüş Pusula Kolye",
+            "Metalik Güneş Gözlüğü"
+        ],
+        "media": {
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-y3k-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-y3k-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-y3k-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-y3k-close.jpeg"
+            ]
+        }
     }
 ]
