@@ -23,7 +23,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-zoot-suit-side.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-zoot-suit-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/"
     },
     {
         "id": "c_ulzzang_alice_yachting",
