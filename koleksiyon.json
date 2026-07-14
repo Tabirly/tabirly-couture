@@ -1,5 +1,30 @@
 [
     {
+        "id": "c_la_llorona_zoot_suit",
+        "title": "Ağlayan Kıyı: La Llorona Zoot Suit",
+        "category": "Beach / Resort Wear",
+        "publishDate": "2026-07-14",
+        "slogan": "Gözyaşlarından dokunmuş deniz köpüğü; kayıp bir ruhun kıyıya vuran avangart feryadı.",
+        "description": "Meksika'nın 'La Llorona' (Ağlayan Kadın) efsanesinin, vintage Zoot Suit formlarının devasa ve maskülen kalıplarıyla, sahilin uçuşan ruhani dokularıyla harmanlanmış hiper-avangart bir Couture yorumu. Omuzları abartılı, ıslak görünümlü beyaz ipek organze ceket, rüzgarda adeta bir hayalet silüeti gibi dalgalanıyor. İç kısmında gözyaşı formunda inci ve gümüş zincirlerden oluşan karmaşık bir bralet; alt kısmında ise paçaları kasıtlı olarak sulara batmış gibi duran yüksek belli, bol plise pantolon. Yüzünü kısmen örten, ıslak salkım söğüt formunda tül duvakla kaplı ikonik beyaz hasır Pachuco şapkası, kristal gözyaşı damlalarıyla bezeli yüksek topuklu resort sandaletleri ve gümüş iplerle dalga motifleri işlenmiş, matem ve lüksü bir araya getiren devasa beyaz hasır çantasıyla; bu parça karanlık bir efsanenin modern, melankolik ve lüks sahil şıklığına ürpertici bir dönüşümünü sunuyor.",
+        "occasion": "Sahil Tatili / Konsept Plaj Etkinliği",
+        "bodyType": "Oversize / Akışkan Form",
+        "pairsWith": [
+            "İşlemeli Beyaz Hasır Çanta",
+            "Kristal Damlalı Sandaletler",
+            "Salkım Söğüt Duvaklı Pachuco Şapka",
+            "Nehir Taşı Kolye"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-zoot-suit-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-zoot-suit-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-zoot-suit-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-zoot-suit-close.jpeg"
+            ]
+        }
+    },
         "id": "c_ulzzang_alice_yachting",
         "title": "Dev Oranların Kaptanı: Makropsi Yelkenlisi",
         "category": "Üst Giyim",
