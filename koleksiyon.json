@@ -1,5 +1,30 @@
 [
     {
+        "id": "c_frazzled_biker_swarm",
+        "title": "Kovanın Kaosu: Frazzled Sürü Motorcusu",
+        "category": "Motorcycling / Biker",
+        "publishDate": "2026-07-15",
+        "slogan": "Şehrin gürültüsünde senkronize olan bir sürü; dağınık zırhın ardındaki kolektif bilinç.",
+        "description": "Salaş, dağınık ve hafif telaşlı 'Frazzled English Woman' tarzının rahatlığı, sert ve koruyucu 'Motorcu' estetiğiyle fütüristik bir 'Swarm Intelligence' (Sürü Zekası) temasında çarpışıyor. Omuzlardan dökülen, arı kovanı desenli devasa kalın örme kazaklar sanki koza ipeğinden düzensizce örülmüş izlenimi yaratıyor. Üzerindeki asimetrik, yıpranmış mumlu deri motorcu ceketi ise yüzlerce küçük, kovanın parçalarını andıran metalik donanımla süslenmiş. Altında sağlam, yıpranmış deri koruyucu motosiklet pantolonu ve çamurlu sokaklarda süzülen devasa metalik tokalı çizmeleri var. Amber reçinesi ve kaba deriden tasarlanmış petek dokulu askılı sırt çantası, fosilleşmiş balı andıran kalın gümüş ve amber zincir kolyelerle bütünleşerek kolektif bir zekanın organik ama teknolojik zırhını oluşturuyor. Bu parça, yağmurlu Londra sokaklarında kaotik ama kusursuzca senkronize edilmiş bir avangart motorcu yorumu.",
+        "occasion": "Motosiklet Sürüşü / Kentsel Distopya",
+        "bodyType": "Oversize / Katmanlı (Layering)",
+        "pairsWith": [
+            "Petek Dokulu Deri Çanta",
+            "Metalik Arı Tokalı Çizmeler",
+            "Fosil Amber Kolyeler",
+            "Böcek Gözü Formunda Gözlük"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frazzled-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frazzled-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frazzled-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frazzled-close.jpeg"
+            ]
+        }
+    },
         "id": "c_la_llorona_zoot_suit",
         "title": "Ağlayan Kıyı: La Llorona Zoot Suit",
         "category": "Beach / Resort Wear",
