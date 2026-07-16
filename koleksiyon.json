@@ -23,7 +23,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frazzled-side.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-frazzled-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/"
     },
     {
         "id": "c_la_llorona_zoot_suit",
