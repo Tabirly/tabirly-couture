@@ -1,5 +1,31 @@
 [
     {
+        "id": "c_dolly_kei_asylum_boxing",
+        "title": "Tımarhane Labirentleri: Dolly Kei Boksörü",
+        "category": "Martial Arts / Boxing",
+        "publishDate": "2026-07-19",
+        "slogan": "Dantellerle örülmüş delilik, kadifeden dikilmiş bir dövüş.",
+        "description": "Japon sokak modasının karanlık, masalsı ve nostaljik 'Dolly Kei' tarzı ile 'Boks/Dövüş Sanatları' estetiği, tekinsiz bir 'Tımarhane Labirentleri' (Asylum Labyrinths) temasında çarpışıyor. Model, eski Avrupa halılarından ve zengin vintage kadifelerden dikilmiş devasa bir boksör sabahlığı giyiyor. Ancak bu sabahlık, deli gömleklerindeki gibi medikal kayışlar ve boğucu hücre (padded-cell) dikişleriyle yapılandırılmış. Altında, antika danteller ve takıntılı labirent dikişleriyle kaplı, yüksek belli korse formunda dolgulu boks şortu bulunuyor. Elleri, yıpranmış antika ipek kurdelelerle sarılı ve üzerinde Avrupa folklorik nakışları ile ağır metal tımarhane tokaları taşıyan devasa vintage deri boks eldivenleri var. Ayaklarında labirent misali karmaşık bağcıklara sahip antika deri boks botları dikkat çekiyor. Yanında, Viktorya dönemi kuş kafesini ve dolgulu hücreyi andıran yapılandırılmış devasa bir spor çantası taşıyor. Boynunda ise boks madalyalarını andıran, porselen bebek kafaları ve paslı labirent anahtarlarıyla süslenmiş kalın gümüş zincirler bulunuyor.",
+        "occasion": "Avangart Ring / Tımarhane Dövüşü",
+        "bodyType": "Oversize / Katmanlı (Layering)",
+        "pairsWith": [
+            "Kuş Kafesi Spor Çantası",
+            "Porselen Bebek Madalyonlar",
+            "Nakışlı Deri Eldivenler",
+            "Paslı Labirent Anahtarı"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dolly-kei-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dolly-kei-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dolly-kei-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dolly-kei-close.jpeg"
+            ]
+        }
+    },
+    {
         "id": "c_frazzled_biker_swarm",
         "title": "Kovanın Kaosu: Frazzled Sürü Motorcusu",
         "category": "Motorcycling / Biker",
