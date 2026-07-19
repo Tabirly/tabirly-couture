@@ -23,7 +23,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dolly-kei-side.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-dolly-kei-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/"
     },
     {
         "id": "c_frazzled_biker_swarm",
