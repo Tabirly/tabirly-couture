@@ -1,5 +1,31 @@
 [
     {
+        "id": "c_paninaro_equestrian_straightjacket",
+        "title": "Neon Pranga: Paninaro Binicisi",
+        "category": "Binicilik / Equestrian",
+        "publishDate": "2026-07-24",
+        "slogan": "Renklerin çılgınlığı, kayışların sessiz itaatiyle ehlileştiriliyor.",
+        "description": "80'lerin lüks tüketimi ve parlak renklerini yücelten İtalyan 'Paninaro' stili ile elit 'Binicilik' (Equestrian) giyimi, klostrofobik bir 'Deli Gömleği' (Straightjacket) temasında buluşuyor. Omuzları abartılı, parlak neon-magenta şişme naylon mont; ham kanvas deli gömleği kayışları ve steril çelik medikal tokalarla gövdeye ve kollara sımsıkı sabitlenmiş. Bu boğucu ve kısıtlayıcı montun altında, yakası boynu hapseden geleneksel beyaz bir binici gömleği yer alıyor. Modelin bacaklarında kusursuz dikişlere sahip beyaz binici pantolonu var, ancak bacaklarını asimetrik şekilde saran kısıtlayıcı kayışlarla yapılandırılmış. Kalın 80'ler tarzı kauçuk tabanlı, diz altı parlak siyah binici çizmeleri baldır boyunca sıralanan deli gömleği tokalarıyla süslü. Elinde taşıdığı kutu formlu tasarım eyer çantası, kanvas sargılarla ve devasa logo tokalarıyla kilitlenmiş. Boynundaki gösterişli altın Paninaro zincirleri, steril tıbbi D-halkaları ve metal kısıtlayıcılarla birbirine dolanarak, şıklığın ardındaki psikolojik esareti gözler önüne seriyor.",
+        "occasion": "Avangart Binicilik / Steril Atölye Sergisi",
+        "bodyType": "Oversize / Kısıtlayıcı Form",
+        "pairsWith": [
+            "Kanvas Sargılı Eyer Çantası",
+            "Tokalı Deri Çizmeler",
+            "Tıbbi Halkalı Altın Zincir",
+            "Deri Kırbaç (Medikal Kısıtlayıcı)"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-paninaro-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-paninaro-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-paninaro-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-paninaro-close.jpeg"
+            ]
+        }
+    },
+    {
         "id": "c_dolly_kei_asylum_boxing",
         "title": "Tımarhane Labirentleri: Dolly Kei Boksörü",
         "category": "Martial Arts / Boxing",
