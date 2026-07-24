@@ -23,7 +23,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-paninaro-side.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-paninaro-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/"
     },
     {
         "id": "c_dolly_kei_asylum_boxing",
