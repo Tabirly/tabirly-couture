@@ -1,5 +1,31 @@
 [
     {
+        "id": "c_afrofuturism_surf_angelic",
+        "title": "İlahi Dalgalar: Afrofütürist Sörfçü",
+        "category": "Water Sports / Surf",
+        "publishDate": "2026-08-03",
+        "slogan": "Meleklerin dilini konuşan okyanus, siyah neoprenle şekilleniyor.",
+        "description": "Afrika'nın zengin geometrik formlarını, ileri teknoloji bilim kurgu unsurlarıyla birleştiren 'Afrofuturism' estetiği, bu kez 'Su Sporları / Sörf' disiplininde 'Meleksi Alfabeler' (Angelic Alphabets) temasıyla vücut buluyor. Tasarım fantastik bir büyüden değil, tamamen dokunsal ve fiziksel materyallerden oluşuyor. Model, kalın ve formlu yapısıyla mat siyah, parlak sarı ve metalik altın renklerinde bloklu yüksek teknoloji bir neopren dalgıç kıyafeti (wetsuit) giyiyor. 'Meleksi Alfabeler' teması, Enochian yazıtları ve göksel sembollerin neopren kollara ve gövdeye uygulandığı kalın, yükseltilmiş kauçuk baskılar şeklinde tasarıma yedirilmiş. Model, üzerinde büyük, altın rengi geometrik melek harfleri boyanmış kusursuz ve aerodinamik mat siyah fiziksel bir sörf tahtası tutuyor. Sırtında / yanında yansıtıcı, su geçirmez vinil malzemeden yapılmış devasa boyutta bir tasarım 'dry-bag' taşıyor; çantanın üzerinde melek rünleri şeklinde ağır metal donanımlar bulunuyor. Aksesuar olarak boynunda, Afrika kültüründen ilham alan ancak üzeri ilahi alfabelerle derinlemesine oyulmuş kalın, heykelsi pirinç boyun halkaları ve devasa fiziksel kulak kılıfları yer alıyor.",
+        "occasion": "Avangart Plaj / Yüksek Teknoloji Su Sporları",
+        "bodyType": "Sportif / Neopren (Wetsuit)",
+        "pairsWith": [
+            "Kauçuk Baskılı Neopren",
+            "Pirinç Boyun Halkaları",
+            "Metal Rünlü Dry-Bag",
+            "Mat Siyah Sörf Tahtası"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-afrofuturism-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-afrofuturism-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-afrofuturism-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-afrofuturism-close.jpeg"
+            ]
+        }
+    },
+    {
         "id": "c_paninaro_equestrian_straightjacket",
         "title": "Neon Pranga: Paninaro Binicisi",
         "category": "Binicilik / Equestrian",
