@@ -1,5 +1,31 @@
 [
     {
+        "id": "c_spacecore_skate_tamanshud",
+        "title": "Kriptografik Yörünge: Uzaylı Kaykaycı",
+        "category": "Skateboarding / BMX",
+        "publishDate": "2026-08-11",
+        "slogan": "Şifreli mesajlar, galaksiler arası asfaltta kazınıyor.",
+        "description": "Yıldızlararası nostaljiyle dolu 60'lar uzay yarışı estetiği 'Spacecore', sokakların asi ruhu 'Kaykay / BMX' ile çarpışırken; Soğuk Savaş'ın çözülemeyen esrarengiz 'Taman Shud' casusluk gizeminden ilham alan şifreli detaylarla donatılıyor. Fiziksel ve dokunsal materyallerin ön planda olduğu bu tasarımda, model retro bir astronot kıyafetini andıran, ağır dolgulu gümüş-metalik naylon rüzgarlık giyiyor. Rüzgarlığın üzerindeki görev yamaları (patches), uzay ajanslarının logoları yerine kriptografik casusluk şifreleri barındırıyor. İçine giydiği salaş, oversize vintage kaykaycı tişörtünün üzerine fiziksel olarak yırtık bir kağıt parçasında 'Tamám Shud' yazısı basılmış. Altında, otantik yansıtıcı 'Mylar' uzay battaniyesi kumaşından dikilmiş, onlarca gizli casus cebi barındıran devasa bollukta paraşüt pantolon bulunuyor. Ayaklarında ay çizmelerinin (lunar-boot) kauçuğu ve gümüş deriden tasarlanmış ağır, güçlendirilmiş bilekli kaykay ayakkabıları var. Elinde, üzerinde Somerton Adamı'nın çözülemeyen şifreli harfleri kazınmış, uydu güneş panelini andıran ağır hizmet tipi fiziksel bir kaykay tutuyor. Başındaki astronot vizörlü yansıtıcı BMX kaskı ve bacağındaki yapılandırılmış gizli deri casus çantası, soğuk beton kaykay parkının amansız gözetleme atmosferini tamamlıyor.",
+        "occasion": "Terk Edilmiş Beton Park / Şifreli Gece Nöbeti",
+        "bodyType": "Oversize / Koruyucu Zırh (Padded)",
+        "pairsWith": [
+            "Mylar Paraşüt Pantolon",
+            "Şifreli Uydu Kaykay",
+            "Bacak Casus Çantası (Drop-Leg)",
+            "Astronot BMX Kaskı"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-spacecore-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-spacecore-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-spacecore-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-spacecore-close.jpeg"
+            ]
+        }
+    },
+    {
         "id": "c_afrofuturism_surf_angelic",
         "title": "İlahi Dalgalar: Afrofütürist Sörfçü",
         "category": "Water Sports / Surf",
