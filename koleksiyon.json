@@ -23,7 +23,8 @@
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-spacecore-side.jpeg",
                 "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-spacecore-close.jpeg"
             ]
-        }
+        },
+        "postUrl": "https://tr.tabirly.com/"
     },
     {
         "id": "c_afrofuturism_surf_angelic",
