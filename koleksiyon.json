@@ -1,5 +1,31 @@
 [
     {
+        "id": "c_adaptive_cycling_chupacabra",
+        "title": "Sibernetik Avcı: Adaptif Bisikletçi",
+        "category": "Cycling / Skating",
+        "publishDate": "2026-09-10",
+        "slogan": "Kusursuz protezler, canavarın pullarında hızla bütünleşiyor.",
+        "description": "Engelli bireyler için fonksiyonel çözümler sunan 'Adaptive Fashion' (Adaptif Moda) ile hız tutkunu 'Bisiklet / Paten' giyimi; Latin Amerika'nın efsanevi sürüngen canavarı 'Chupacabra'nın yırtıcı estetiğiyle yeniden yorumlanıyor. Model, aerodinamik ve modüler bir bisikletçi tulumu giyiyor. Tulum, Chupacabra'nın pullarını andıran derin dokulu koyu sürüngen suni deri ve yüksek esneklikteki spandeksten üretilmiş; tek elle giyimi sağlayan aşırı büyük manyetik fermuarlara ve yırtılıp açılabilen fonksiyonel yan dikişlere (tear-away seams) sahip. Spor güvenliğini canavarımsı bir anatomiyle birleştiren ağır fiziksel kauçuk koruyucu dikenler, omuzlardan ve omurgadan aşağı uzanıyor. Modelin bacağındaki avangart karbon-fiber protez, aerodinamik özellikli ve çivili metal zımbalarla süslenmiş özel yapım bisiklet ayakkabılarına (veya karbon-fiber patenlere) kusursuzca entegre edilmiş. Gidon çantası (handlebar-bag) olarak işlev gören eskitilmiş, kan kırmızısı kanvas tasarımı, kolay çekilebilir manyetik tokalar barındırıyor. Aksesuarlarında, tek elle takılabilen manyetik tokalı, yırtıcı dişleri ve dikenli omurları andıran iri, dokunsal pirinç takılar bulunuyor.",
+        "occasion": "Sürüngen Otobanı / Avangart Paten Gezisi",
+        "bodyType": "Aerodinamik / Adaptif (Modüler)",
+        "pairsWith": [
+            "Karbon-Fiber Protez Paten",
+            "Sürüngen Dikenli Zırh",
+            "Manyetik Tokalı Kanvas Çanta",
+            "Pirinç Omurga Takıları"
+        ],
+        "gender": "Kadın",
+        "media": {
+            "type": "gallery",
+            "images": [
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-adaptive-front.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-adaptive-back.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-adaptive-side.jpeg",
+                "https://raw.githubusercontent.com/Tabirly/tabirly-couture/main/images/tabirly-couture-adaptive-close.jpeg"
+            ]
+        }
+    },
+    {
         "id": "c_spacecore_skate_tamanshud",
         "title": "Kriptografik Yörünge: Uzaylı Kaykaycı",
         "category": "Skateboarding / BMX",
